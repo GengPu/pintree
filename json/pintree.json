@@ -3673,6 +3673,13 @@
                             "title": "ZUI 3 | ZUI 3",
                             "icon": "https://logo.clearbit.com/openzui.com",
                             "url": "https://openzui.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1729589277538,
+                            "title": "Animate.css | A cross-browser library of CSS animations.",
+                            "icon": "https://logo.clearbit.com/animate.style",
+                            "url": "https://animate.style/"
                           }
                         ]
                       },
@@ -8119,6 +8126,13 @@
                         "title": "使用简单的文字描述画UML图的开源工具。",
                         "icon": "https://logo.clearbit.com/plantuml.com",
                         "url": "https://plantuml.com/zh/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1729645090368,
+                        "title": "XWiki - The Advanced Open Source Enterprise and Application Wiki (XWiki.org)",
+                        "icon": "https://logo.clearbit.com/www.xwiki.org",
+                        "url": "https://www.xwiki.org/xwiki/bin/view/Main/WebHome"
                       }
                     ]
                   },
@@ -9714,6 +9728,453 @@
                 "url": "https://docs.microsoft.com/zh-cn/"
               }
             ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1667781413224,
+        "title": "查找",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1694996549515,
+            "title": "Maven Central",
+            "icon": "https://logo.clearbit.com/central.sonatype.com",
+            "url": "https://central.sonatype.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1667617785929,
+            "title": "Maven Repository: Search/Browse/Explore",
+            "icon": "https://logo.clearbit.com/mvnrepository.com",
+            "url": "https://mvnrepository.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1636936063000,
+            "title": "The Best IP Address, Email and Networking Tools - IPAddress.com",
+            "icon": "https://logo.clearbit.com/www.ipaddress.com",
+            "url": "https://www.ipaddress.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1636936063000,
+            "title": "百度翻译",
+            "icon": "https://logo.clearbit.com/fanyi.baidu.com",
+            "url": "https://fanyi.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1668357619444,
+            "title": "Melvor Idle梅尔沃放置---常用控制台命令（同步DLC物品） - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/read/cv18226642"
+          },
+          {
+            "type": "link",
+            "addDate": 1669278797308,
+            "title": "(7条消息) (四) Spring整合ActiveMQ---超详细教程_zxg45的博客-CSDN博客_spring整合activemq",
+            "icon": "https://logo.clearbit.com/blog.csdn.net",
+            "url": "https://blog.csdn.net/Zhangxg0206/article/details/109904775"
+          },
+          {
+            "type": "link",
+            "addDate": 1720514748244,
+            "title": "Shodan Search Engine",
+            "icon": "https://logo.clearbit.com/www.shodan.io",
+            "url": "https://www.shodan.io/"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1719555615065,
+        "title": "AI工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1717425076508,
+            "title": "V-Express：南京大学和腾讯联合开源数字人，音频驱动图片生成讲话视频，又一数字人免费平替",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/T1zr80RxvY7AZihkS1prsw"
+          },
+          {
+            "type": "link",
+            "addDate": 1698219825211,
+            "title": "文心一言",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718329421936,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686145717004,
+            "title": "用自己训练的AI玩王者荣耀是什么体验？ - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/342791663"
+          },
+          {
+            "type": "link",
+            "addDate": 1714395833692,
+            "title": "大模型 AI 应用全栈开发知识体系 v1.4.1",
+            "icon": "https://logo.clearbit.com/agiclass.feishu.cn",
+            "url": "https://agiclass.feishu.cn/docx/Z3Aed6qXboiF8gxGuaccNHxanOc?from=from_qr_code"
+          },
+          {
+            "type": "link",
+            "addDate": 1719310015259,
+            "title": "通义",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen"
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1719555638353,
+        "title": "工具箱",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1646750299000,
+            "title": "软件科学-云服务后台管理",
+            "icon": "https://logo.clearbit.com/softwarescience.top",
+            "url": "http://softwarescience.top/admin/index.html#/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1700406144510,
+            "title": "flomo",
+            "icon": "https://logo.clearbit.com/v.flomoapp.com",
+            "url": "https://v.flomoapp.com/mine"
+          },
+          {
+            "type": "link",
+            "addDate": 1636936063000,
+            "title": "百度翻译",
+            "icon": "https://logo.clearbit.com/fanyi.baidu.com",
+            "url": "https://fanyi.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1721267744632,
+            "title": "我的文档 - ONLYOFFICE",
+            "icon": "https://logo.clearbit.com/coderg.onlyoffice.com",
+            "url": "https://coderg.onlyoffice.com/rooms/personal/filter?folder=323891&searchArea=3&page=1&sortby=DateAndTime&sortorder=descending"
+          },
+          {
+            "type": "link",
+            "addDate": 1721267863240,
+            "title": "ONLYOFFICE - Cloud Office Applications",
+            "icon": "https://logo.clearbit.com/www.onlyoffice.com",
+            "url": "https://www.onlyoffice.com/zh/vacancies.aspx"
+          },
+          {
+            "type": "link",
+            "addDate": 1722040814619,
+            "title": "RoyaleHosting - Dashboard",
+            "icon": "https://logo.clearbit.com/royalehosting.net",
+            "url": "https://royalehosting.net/dashboard"
+          },
+          {
+            "type": "link",
+            "addDate": 1728625800926,
+            "title": "数码荔枝 x 软件商店 - 专注于分享最新鲜优秀的正版软件",
+            "icon": "https://logo.clearbit.com/lizhi.shop",
+            "url": "https://lizhi.shop/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "folder",
+    "addDate": 1726622016408,
+    "title": "工作区收藏夹",
+    "children": [
+      {
+        "type": "folder",
+        "addDate": 1726623095993,
+        "title": "代码工作",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1727246307051,
+            "title": "Java",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1727246313323,
+                "title": "规范",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1727246292086,
+                    "title": "规范 | The Eclipse Foundation",
+                    "icon": "https://logo.clearbit.com/jakarta.ee",
+                    "url": "https://jakarta.ee/zh/specifications/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1727245678157,
+                    "title": "Java EE - Technologies",
+                    "icon": "https://logo.clearbit.com/www.oracle.com",
+                    "url": "https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728013288312,
+            "title": "kotlin",
+            "children": [
+              {
+                "type": "link",
+                "addDate": 1728013280393,
+                "title": "Get started with Kotlin Multiplatform | Kotlin Multiplatform Development Documentation",
+                "icon": "https://logo.clearbit.com/www.jetbrains.com",
+                "url": "https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html"
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1728377650685,
+            "title": "桌面端",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1728377650688,
+                "title": "windows",
+                "children": [
+                  {
+                    "type": "folder",
+                    "addDate": 1728377650687,
+                    "title": "aardio",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1728377630757,
+                        "title": "aardio 官方网站",
+                        "icon": "https://logo.clearbit.com/www.aardio.com",
+                        "url": "https://www.aardio.com/"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1728377650690,
+                "title": "any",
+                "children": []
+              }
+            ]
+          },
+          {
+            "type": "folder",
+            "addDate": 1729520305805,
+            "title": "JavaScript",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1729520305809,
+                "title": "UI",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1729520295895,
+                    "title": "MUI: The React component library you always wanted",
+                    "icon": "https://logo.clearbit.com/mui.com",
+                    "url": "https://mui.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729520308019,
+                    "title": "iView / View Design 一套企业级 UI 组件库和前端解决方案",
+                    "icon": "https://logo.clearbit.com/iviewui.com",
+                    "url": "https://iviewui.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729520310143,
+                    "title": "一个 Vue 3 UI 框架 | Element Plus",
+                    "icon": "https://logo.clearbit.com/element-plus.org",
+                    "url": "https://element-plus.org/zh-CN/#/zh-CN"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729520315477,
+                    "title": "Arco Design - 企业级产品的完整设计和开发解决方案",
+                    "icon": "https://logo.clearbit.com/arco.design",
+                    "url": "https://arco.design/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729520317809,
+                    "title": "TDesign - 开源的企业级设计体系，为设计师 & 开发者，打造工作美学",
+                    "icon": "https://logo.clearbit.com/tdesign.tencent.com",
+                    "url": "https://tdesign.tencent.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729520325440,
+                    "title": "Naive UI: 一个 Vue 3 组件库",
+                    "icon": "https://logo.clearbit.com/www.naiveui.com",
+                    "url": "https://www.naiveui.com/zh-CN/os-theme"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729576379946,
+                    "title": "SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes",
+                    "icon": "https://logo.clearbit.com/sweetalert2.github.io",
+                    "url": "https://sweetalert2.github.io/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726623142435,
+        "title": "娱乐区",
+        "children": [
+          {
+            "type": "folder",
+            "addDate": 1719555629805,
+            "title": "娱乐",
+            "children": [
+              {
+                "type": "folder",
+                "addDate": 1727167264943,
+                "title": "娱乐",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1727167264944,
+                    "title": "WARFRAME中文维基",
+                    "icon": "https://logo.clearbit.com/warframe.huijiwiki.com",
+                    "url": "https://warframe.huijiwiki.com/wiki/Mainpage"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1727167264944,
+                    "title": "Party Animals",
+                    "icon": "https://logo.clearbit.com/partyanimals.cn",
+                    "url": "https://partyanimals.cn/"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1726639788286,
+                "title": "幸福工厂",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1726639780123,
+                    "title": "生产计划 / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.",
+                    "icon": "https://logo.clearbit.com/satisfactory-calculator.com",
+                    "url": "https://satisfactory-calculator.com/zh/planners/production"
+                  }
+                ]
+              },
+              {
+                "type": "folder",
+                "addDate": 1726639796362,
+                "title": "黑神话",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1725155025084,
+                    "title": "黑神话悟空全收集互动地图_提供黑悟空全土地庙、妖王BOSS等点位信息",
+                    "icon": "https://logo.clearbit.com/www.gamersky.com",
+                    "url": "https://www.gamersky.com/tools/map/wukong/?mapId=48"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1724008742636,
+                    "title": "黑神话：悟空WIKI_BWIKI_哔哩哔哩",
+                    "icon": "https://logo.clearbit.com/wiki.biligame.com",
+                    "url": "https://wiki.biligame.com/wukong/%E9%A6%96%E9%A1%B5"
+                  }
+                ]
+              },
+              {
+                "type": "link",
+                "addDate": 1713186376825,
+                "title": "FLiNG Trainer - PC Game Cheats and Mods",
+                "icon": "https://logo.clearbit.com/flingtrainer.com",
+                "url": "https://flingtrainer.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1636936063000,
+                "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+                "icon": "https://logo.clearbit.com/www.bilibili.com",
+                "url": "https://www.bilibili.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1719756059594,
+                "title": "主页 - Speedrun.com",
+                "icon": "https://logo.clearbit.com/www.speedrun.com",
+                "url": "https://www.speedrun.com/zh-CN"
+              },
+              {
+                "type": "link",
+                "addDate": 1723624398433,
+                "title": "Kittens Game - a Dark Souls of incremental gaming",
+                "icon": "https://logo.clearbit.com/lolitalibrary.com",
+                "url": "https://lolitalibrary.com/maomao/#"
+              },
+              {
+                "type": "link",
+                "addDate": 1723987276641,
+                "title": "星际争霸2系列完全版 - 飞书云文档",
+                "icon": "https://logo.clearbit.com/ivxm3ui4zn.feishu.cn",
+                "url": "https://ivxm3ui4zn.feishu.cn/docx/PyHkdca5ToPpghxL54ycsvwSnFf"
+              },
+              {
+                "type": "link",
+                "addDate": 1636936063000,
+                "title": "总览 | Screeps 中文文档",
+                "icon": "https://logo.clearbit.com/screeps-cn.github.io",
+                "url": "https://screeps-cn.github.io/"
+              },
+              {
+                "type": "link",
+                "addDate": 1668357456169,
+                "title": "Melvor Idle :: v1.1",
+                "icon": "https://logo.clearbit.com/melvoridle.com",
+                "url": "https://melvoridle.com/index_game.php"
+              },
+              {
+                "type": "link",
+                "addDate": 1726533746050,
+                "title": "FLiNG Trainer PC Game Trainers, Mods and Cheats",
+                "icon": "https://logo.clearbit.com/flingtrainer.dev",
+                "url": "https://flingtrainer.dev/"
+              }
+            ]
+          },
+          {
+            "type": "link",
+            "addDate": 1727505714207,
+            "title": "Deadlock",
+            "icon": "https://logo.clearbit.com/forums.playdeadlock.com",
+            "url": "https://forums.playdeadlock.com/"
           }
         ]
       }
