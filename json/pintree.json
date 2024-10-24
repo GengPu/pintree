@@ -9766,6 +9766,13 @@
           },
           {
             "type": "link",
+            "addDate": 1668357619444,
+            "title": "Melvor Idle梅尔沃放置---常用控制台命令（同步DLC物品） - 哔哩哔哩",
+            "icon": "https://logo.clearbit.com/www.bilibili.com",
+            "url": "https://www.bilibili.com/read/cv18226642"
+          },
+          {
+            "type": "link",
             "addDate": 1669278797308,
             "title": "(7条消息) (四) Spring整合ActiveMQ---超详细教程_zxg45的博客-CSDN博客_spring整合activemq",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
@@ -9988,180 +9995,6 @@
             ]
           }
         ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1726623154414,
-        "title": "管理工作",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1718846420668,
-            "title": "公司",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1718846503360,
-                "title": "舜德数据--项目管理系统",
-                "icon": "https://logo.clearbit.com/pm.sundatasoft.com",
-                "url": "http://pm.sundatasoft.com:8888/welcome"
-              },
-              {
-                "type": "link",
-                "addDate": 1718846558254,
-                "title": "腾讯企业邮箱-登录入口",
-                "icon": "https://logo.clearbit.com/exmail.qq.com",
-                "url": "https://exmail.qq.com/login"
-              },
-              {
-                "type": "link",
-                "addDate": 1718846537360,
-                "title": "Spring MVC教程™",
-                "icon": "https://logo.clearbit.com/www.yiibai.com",
-                "url": "https://www.yiibai.com/spring_mvc/"
-              },
-              {
-                "type": "link",
-                "addDate": 1718846547226,
-                "title": "Spring 教程_w3cschool",
-                "icon": "https://logo.clearbit.com/www.w3cschool.cn",
-                "url": "https://www.w3cschool.cn/wkspring/"
-              },
-              {
-                "type": "folder",
-                "addDate": 1718846567004,
-                "title": "业务知识",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1718846587371,
-                    "title": "商业银行资本管理办法_国家金融监督管理总局_中国政府网",
-                    "icon": "https://logo.clearbit.com/www.gov.cn",
-                    "url": "https://www.gov.cn/zhengce/202311/content_6913410.htm"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846598062,
-                    "title": "商业银行资本管理办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1134197&itemId=861&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846606392,
-                    "title": "操作风险管理",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1144382&itemId=861&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846614189,
-                    "title": "金融资产风险分类办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1095372&itemId=861&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846622288,
-                    "title": "银行业金融机构反洗钱和反恐怖融资管理办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/ItemDetail.html?docId=210677&itemId=928&generaltype=0"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846657729,
-                    "title": "商业银行流动性风险管理办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/rulesDetail.html?docId=180252&itemId=4214&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846666195,
-                    "title": "商业银行表外业务风险管理办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1084271&itemId=861&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846674505,
-                    "title": "理财公司理财产品流动性风险管理办法",
-                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
-                    "url": "https://www.cbirc.gov.cn/cn/view/pages/rulesDetail.html?docId=1024321&itemId=4214&generaltype=1"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846683609,
-                    "title": "中华人民共和国国家卫生健康委员会",
-                    "icon": "https://logo.clearbit.com/www.nhc.gov.cn",
-                    "url": "http://www.nhc.gov.cn/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1718846572586,
-                "title": "国家标准",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1718846698406,
-                    "title": "国家标准全文公开",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/index"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846707479,
-                    "title": "国家标准|GB/T 32911-2016",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=19B82C39FB3B9DF0A35D28122C07B053"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846715555,
-                    "title": "国家标准全文阅读|标准检索-运行维护",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=GB/T%2028827"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846723256,
-                    "title": "国家标准|GB/T 36964-2018",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D60D4EE10E59882DC82C8237844F605F"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846730737,
-                    "title": "国家标准全文阅读|分类检索",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list_ics?p6=35.080_%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846739835,
-                    "title": "国家标准全文阅读|标准检索",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=GB/T%2023703"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1718846748853,
-                    "title": "国家标准全文阅读|标准检索-银行业应用系统-非功能性需求",
-                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
-                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=40473"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1726623207122,
-        "title": "学习区",
-        "children": []
       }
     ]
   }
