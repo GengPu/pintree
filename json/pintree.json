@@ -3226,6 +3226,20 @@
                             "children": [
                               {
                                 "type": "link",
+                                "addDate": 1674134904746,
+                                "title": "开始上手 | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
+                                "icon": "https://logo.clearbit.com/preactjs.com",
+                                "url": "https://preactjs.com/guide/v10/getting-started"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1715147276278,
+                                "title": "学习 Preact – Preact 教程",
+                                "icon": "https://logo.clearbit.com/preactjs.com",
+                                "url": "https://preactjs.com/tutorial"
+                              },
+                              {
+                                "type": "link",
                                 "addDate": 1715147295745,
                                 "title": "Svelte • Cybernetically enhanced web apps",
                                 "icon": "https://logo.clearbit.com/svelte.dev",
@@ -3314,20 +3328,6 @@
                                 "title": "Introduction | Learn Next.js",
                                 "icon": "https://logo.clearbit.com/nextjs.org",
                                 "url": "https://nextjs.org/learn/foundations/about-nextjs"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1715147276278,
-                                "title": "学习 Preact – Preact 教程",
-                                "icon": "https://logo.clearbit.com/preactjs.com",
-                                "url": "https://preactjs.com/tutorial"
-                              },
-                              {
-                                "type": "link",
-                                "addDate": 1674134904746,
-                                "title": "开始上手 | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.",
-                                "icon": "https://logo.clearbit.com/preactjs.com",
-                                "url": "https://preactjs.com/guide/v10/getting-started"
                               },
                               {
                                 "type": "link",
@@ -9766,13 +9766,6 @@
           },
           {
             "type": "link",
-            "addDate": 1668357619444,
-            "title": "Melvor Idle梅尔沃放置---常用控制台命令（同步DLC物品） - 哔哩哔哩",
-            "icon": "https://logo.clearbit.com/www.bilibili.com",
-            "url": "https://www.bilibili.com/read/cv18226642"
-          },
-          {
-            "type": "link",
             "addDate": 1669278797308,
             "title": "(7条消息) (四) Spring整合ActiveMQ---超详细教程_zxg45的博客-CSDN博客_spring整合activemq",
             "icon": "https://logo.clearbit.com/blog.csdn.net",
@@ -9833,62 +9826,6 @@
             "title": "通义",
             "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
             "url": "https://tongyi.aliyun.com/qianwen"
-          }
-        ]
-      },
-      {
-        "type": "folder",
-        "addDate": 1719555638353,
-        "title": "工具箱",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1646750299000,
-            "title": "软件科学-云服务后台管理",
-            "icon": "https://logo.clearbit.com/softwarescience.top",
-            "url": "http://softwarescience.top/admin/index.html#/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1700406144510,
-            "title": "flomo",
-            "icon": "https://logo.clearbit.com/v.flomoapp.com",
-            "url": "https://v.flomoapp.com/mine"
-          },
-          {
-            "type": "link",
-            "addDate": 1636936063000,
-            "title": "百度翻译",
-            "icon": "https://logo.clearbit.com/fanyi.baidu.com",
-            "url": "https://fanyi.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1721267744632,
-            "title": "我的文档 - ONLYOFFICE",
-            "icon": "https://logo.clearbit.com/coderg.onlyoffice.com",
-            "url": "https://coderg.onlyoffice.com/rooms/personal/filter?folder=323891&searchArea=3&page=1&sortby=DateAndTime&sortorder=descending"
-          },
-          {
-            "type": "link",
-            "addDate": 1721267863240,
-            "title": "ONLYOFFICE - Cloud Office Applications",
-            "icon": "https://logo.clearbit.com/www.onlyoffice.com",
-            "url": "https://www.onlyoffice.com/zh/vacancies.aspx"
-          },
-          {
-            "type": "link",
-            "addDate": 1722040814619,
-            "title": "RoyaleHosting - Dashboard",
-            "icon": "https://logo.clearbit.com/royalehosting.net",
-            "url": "https://royalehosting.net/dashboard"
-          },
-          {
-            "type": "link",
-            "addDate": 1728625800926,
-            "title": "数码荔枝 x 软件商店 - 专注于分享最新鲜优秀的正版软件",
-            "icon": "https://logo.clearbit.com/lizhi.shop",
-            "url": "https://lizhi.shop/"
           }
         ]
       }
@@ -10038,6 +9975,13 @@
                     "title": "SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes",
                     "icon": "https://logo.clearbit.com/sweetalert2.github.io",
                     "url": "https://sweetalert2.github.io/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1729686699476,
+                    "title": "React Data Grid - Documentation | Handsontable",
+                    "icon": "https://logo.clearbit.com/handsontable.com",
+                    "url": "https://handsontable.com/docs/react-data-grid/"
                   }
                 ]
               }
@@ -10047,136 +9991,177 @@
       },
       {
         "type": "folder",
-        "addDate": 1726623142435,
-        "title": "娱乐区",
+        "addDate": 1726623154414,
+        "title": "管理工作",
         "children": [
           {
             "type": "folder",
-            "addDate": 1719555629805,
-            "title": "娱乐",
+            "addDate": 1718846420668,
+            "title": "公司",
             "children": [
               {
+                "type": "link",
+                "addDate": 1718846503360,
+                "title": "舜德数据--项目管理系统",
+                "icon": "https://logo.clearbit.com/pm.sundatasoft.com",
+                "url": "http://pm.sundatasoft.com:8888/welcome"
+              },
+              {
+                "type": "link",
+                "addDate": 1718846558254,
+                "title": "腾讯企业邮箱-登录入口",
+                "icon": "https://logo.clearbit.com/exmail.qq.com",
+                "url": "https://exmail.qq.com/login"
+              },
+              {
+                "type": "link",
+                "addDate": 1718846537360,
+                "title": "Spring MVC教程™",
+                "icon": "https://logo.clearbit.com/www.yiibai.com",
+                "url": "https://www.yiibai.com/spring_mvc/"
+              },
+              {
+                "type": "link",
+                "addDate": 1718846547226,
+                "title": "Spring 教程_w3cschool",
+                "icon": "https://logo.clearbit.com/www.w3cschool.cn",
+                "url": "https://www.w3cschool.cn/wkspring/"
+              },
+              {
                 "type": "folder",
-                "addDate": 1727167264943,
-                "title": "娱乐",
+                "addDate": 1718846567004,
+                "title": "业务知识",
                 "children": [
                   {
                     "type": "link",
-                    "addDate": 1727167264944,
-                    "title": "WARFRAME中文维基",
-                    "icon": "https://logo.clearbit.com/warframe.huijiwiki.com",
-                    "url": "https://warframe.huijiwiki.com/wiki/Mainpage"
+                    "addDate": 1718846587371,
+                    "title": "商业银行资本管理办法_国家金融监督管理总局_中国政府网",
+                    "icon": "https://logo.clearbit.com/www.gov.cn",
+                    "url": "https://www.gov.cn/zhengce/202311/content_6913410.htm"
                   },
                   {
                     "type": "link",
-                    "addDate": 1727167264944,
-                    "title": "Party Animals",
-                    "icon": "https://logo.clearbit.com/partyanimals.cn",
-                    "url": "https://partyanimals.cn/"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1726639788286,
-                "title": "幸福工厂",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1726639780123,
-                    "title": "生产计划 / [SCIM] Satisfactory - Calculator | Gaming Tool/Wiki/Database to empower the players.",
-                    "icon": "https://logo.clearbit.com/satisfactory-calculator.com",
-                    "url": "https://satisfactory-calculator.com/zh/planners/production"
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1726639796362,
-                "title": "黑神话",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1725155025084,
-                    "title": "黑神话悟空全收集互动地图_提供黑悟空全土地庙、妖王BOSS等点位信息",
-                    "icon": "https://logo.clearbit.com/www.gamersky.com",
-                    "url": "https://www.gamersky.com/tools/map/wukong/?mapId=48"
+                    "addDate": 1718846598062,
+                    "title": "商业银行资本管理办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1134197&itemId=861&generaltype=1"
                   },
                   {
                     "type": "link",
-                    "addDate": 1724008742636,
-                    "title": "黑神话：悟空WIKI_BWIKI_哔哩哔哩",
-                    "icon": "https://logo.clearbit.com/wiki.biligame.com",
-                    "url": "https://wiki.biligame.com/wukong/%E9%A6%96%E9%A1%B5"
+                    "addDate": 1718846606392,
+                    "title": "操作风险管理",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1144382&itemId=861&generaltype=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846614189,
+                    "title": "金融资产风险分类办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1095372&itemId=861&generaltype=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846622288,
+                    "title": "银行业金融机构反洗钱和反恐怖融资管理办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/ItemDetail.html?docId=210677&itemId=928&generaltype=0"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846657729,
+                    "title": "商业银行流动性风险管理办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/rulesDetail.html?docId=180252&itemId=4214&generaltype=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846666195,
+                    "title": "商业银行表外业务风险管理办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/governmentDetail.html?docId=1084271&itemId=861&generaltype=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846674505,
+                    "title": "理财公司理财产品流动性风险管理办法",
+                    "icon": "https://logo.clearbit.com/www.cbirc.gov.cn",
+                    "url": "https://www.cbirc.gov.cn/cn/view/pages/rulesDetail.html?docId=1024321&itemId=4214&generaltype=1"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846683609,
+                    "title": "中华人民共和国国家卫生健康委员会",
+                    "icon": "https://logo.clearbit.com/www.nhc.gov.cn",
+                    "url": "http://www.nhc.gov.cn/"
                   }
                 ]
               },
               {
-                "type": "link",
-                "addDate": 1713186376825,
-                "title": "FLiNG Trainer - PC Game Cheats and Mods",
-                "icon": "https://logo.clearbit.com/flingtrainer.com",
-                "url": "https://flingtrainer.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1636936063000,
-                "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-                "icon": "https://logo.clearbit.com/www.bilibili.com",
-                "url": "https://www.bilibili.com/"
-              },
-              {
-                "type": "link",
-                "addDate": 1719756059594,
-                "title": "主页 - Speedrun.com",
-                "icon": "https://logo.clearbit.com/www.speedrun.com",
-                "url": "https://www.speedrun.com/zh-CN"
-              },
-              {
-                "type": "link",
-                "addDate": 1723624398433,
-                "title": "Kittens Game - a Dark Souls of incremental gaming",
-                "icon": "https://logo.clearbit.com/lolitalibrary.com",
-                "url": "https://lolitalibrary.com/maomao/#"
-              },
-              {
-                "type": "link",
-                "addDate": 1723987276641,
-                "title": "星际争霸2系列完全版 - 飞书云文档",
-                "icon": "https://logo.clearbit.com/ivxm3ui4zn.feishu.cn",
-                "url": "https://ivxm3ui4zn.feishu.cn/docx/PyHkdca5ToPpghxL54ycsvwSnFf"
-              },
-              {
-                "type": "link",
-                "addDate": 1636936063000,
-                "title": "总览 | Screeps 中文文档",
-                "icon": "https://logo.clearbit.com/screeps-cn.github.io",
-                "url": "https://screeps-cn.github.io/"
-              },
-              {
-                "type": "link",
-                "addDate": 1668357456169,
-                "title": "Melvor Idle :: v1.1",
-                "icon": "https://logo.clearbit.com/melvoridle.com",
-                "url": "https://melvoridle.com/index_game.php"
-              },
-              {
-                "type": "link",
-                "addDate": 1726533746050,
-                "title": "FLiNG Trainer PC Game Trainers, Mods and Cheats",
-                "icon": "https://logo.clearbit.com/flingtrainer.dev",
-                "url": "https://flingtrainer.dev/"
+                "type": "folder",
+                "addDate": 1718846572586,
+                "title": "国家标准",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1718846698406,
+                    "title": "国家标准全文公开",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/index"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846707479,
+                    "title": "国家标准|GB/T 32911-2016",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=19B82C39FB3B9DF0A35D28122C07B053"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846715555,
+                    "title": "国家标准全文阅读|标准检索-运行维护",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=GB/T%2028827"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846723256,
+                    "title": "国家标准|GB/T 36964-2018",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=D60D4EE10E59882DC82C8237844F605F"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846730737,
+                    "title": "国家标准全文阅读|分类检索",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list_ics?p6=35.080_%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%92%8C%E7%B3%BB%E7%BB%9F%E6%96%87%E4%BB%B6"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846739835,
+                    "title": "国家标准全文阅读|标准检索",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=GB/T%2023703"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1718846748853,
+                    "title": "国家标准全文阅读|标准检索-银行业应用系统-非功能性需求",
+                    "icon": "https://logo.clearbit.com/openstd.samr.gov.cn",
+                    "url": "https://openstd.samr.gov.cn/bzgk/gb/std_list?p.p1=0&p.p90=circulation_date&p.p91=desc&p.p2=40473"
+                  }
+                ]
               }
             ]
-          },
-          {
-            "type": "link",
-            "addDate": 1727505714207,
-            "title": "Deadlock",
-            "icon": "https://logo.clearbit.com/forums.playdeadlock.com",
-            "url": "https://forums.playdeadlock.com/"
           }
         ]
+      },
+      {
+        "type": "folder",
+        "addDate": 1726623207122,
+        "title": "学习区",
+        "children": []
       }
     ]
   }
