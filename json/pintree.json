@@ -189,6 +189,13 @@
                             "title": "11 The Java® Virtual Machine Specification",
                             "icon": "https://logo.clearbit.com/docs.oracle.com",
                             "url": "https://docs.oracle.com/javase/specs/jvms/se11/html/index.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1731201212503,
+                            "title": "Java Platform Standard Edition 8 Documentation",
+                            "icon": "https://logo.clearbit.com/docs.oracle.com",
+                            "url": "https://docs.oracle.com/javase/8/docs/index.html"
                           }
                         ]
                       },
@@ -287,6 +294,13 @@
                             "title": "JetBrains/JetBrainsRuntime: Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux",
                             "icon": "https://logo.clearbit.com/github.com",
                             "url": "https://github.com/JetBrains/JetBrainsRuntime"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730793018984,
+                            "title": "OpenJDK: Download and install",
+                            "icon": "https://logo.clearbit.com/openjdk.org",
+                            "url": "https://openjdk.org/install/"
                           }
                         ]
                       },
@@ -712,6 +726,13 @@
                                 "title": "cardillo/joinery: Data frames for Java",
                                 "icon": "https://logo.clearbit.com/github.com",
                                 "url": "https://github.com/cardillo/joinery"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1731476518325,
+                                "title": "Linq.J: Linq.J 基于 JVM 的对象查询语言",
+                                "icon": "https://logo.clearbit.com/gitee.com",
+                                "url": "https://gitee.com/erupt/linq"
                               }
                             ]
                           },
@@ -1414,6 +1435,48 @@
                             "title": "提供 Java 应用程序 — Ray 2.37.0",
                             "icon": "https://logo.clearbit.com/docs.ray.io",
                             "url": "https://docs.ray.io/en/latest/serve/tutorials/java.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730351932586,
+                            "title": "RESTEasy - JBoss 社区",
+                            "icon": "https://logo.clearbit.com/resteasy.dev",
+                            "url": "https://resteasy.dev/index.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730351955886,
+                            "title": "DataNucleus",
+                            "icon": "https://logo.clearbit.com/www.datanucleus.org",
+                            "url": "https://www.datanucleus.org/products/accessplatform/index.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730531691634,
+                            "title": "MapStruct – Java bean mappings, the easy way!",
+                            "icon": "https://logo.clearbit.com/mapstruct.org",
+                            "url": "https://mapstruct.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730564826439,
+                            "title": "Javalin - 轻量级 Java 和 Kotlin Web 框架",
+                            "icon": "https://logo.clearbit.com/javalin.io",
+                            "url": "https://javalin.io/?from=j2html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730564823909,
+                            "title": "下载 j2html - Java HTML 构建器",
+                            "icon": "https://logo.clearbit.com/j2html.com",
+                            "url": "https://j2html.com/download.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730565145311,
+                            "title": "spullara/mustache.java: Implementation of mustache.js for Java",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/spullara/mustache.java"
                           }
                         ]
                       },
@@ -3206,6 +3269,13 @@
                             "url": "https://servicecomb.apache.org/"
                           }
                         ]
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730345130513,
+                        "title": "阿帕奇皇家",
+                        "icon": "https://logo.clearbit.com/royale.apache.org",
+                        "url": "https://royale.apache.org/"
                       }
                     ]
                   },
@@ -3344,6 +3414,13 @@
                                 "url": "https://docs.astro.build/zh-cn/getting-started/"
                               },
                               {
+                                "type": "link",
+                                "addDate": 1730559206325,
+                                "title": "网络 HTML |热线",
+                                "icon": "https://logo.clearbit.com/hotwired.dev",
+                                "url": "https://hotwired.dev/"
+                              },
+                              {
                                 "type": "folder",
                                 "addDate": 1729144091976,
                                 "title": "htmx",
@@ -3361,6 +3438,13 @@
                                     "title": "wimdeblauwe/htmx-spring-boot: Spring Boot and Thymeleaf helpers for working with htmx",
                                     "icon": "https://logo.clearbit.com/github.com",
                                     "url": "https://github.com/wimdeblauwe/htmx-spring-boot"
+                                  },
+                                  {
+                                    "type": "link",
+                                    "addDate": 1730565098373,
+                                    "title": "_hyperscript",
+                                    "icon": "https://logo.clearbit.com/hyperscript.org",
+                                    "url": "https://hyperscript.org/"
                                   }
                                 ]
                               },
@@ -3375,6 +3459,34 @@
                                     "title": "Knockout : Home",
                                     "icon": "https://logo.clearbit.com/knockoutjs.com",
                                     "url": "https://knockoutjs.com/"
+                                  },
+                                  {
+                                    "type": "link",
+                                    "addDate": 1730391238135,
+                                    "title": "关于 MobX | MobX 中文文档",
+                                    "icon": "https://logo.clearbit.com/www.mobx.org.cn",
+                                    "url": "https://www.mobx.org.cn/README.html"
+                                  },
+                                  {
+                                    "type": "link",
+                                    "addDate": 1730391249506,
+                                    "title": "Redux 中文官网 - JavaScript 应用的状态容器，提供可预测的状态管理。 | Redux 中文官网",
+                                    "icon": "https://logo.clearbit.com/cn.redux.js.org",
+                                    "url": "https://cn.redux.js.org/"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "folder",
+                                "addDate": 1730788065101,
+                                "title": "后端",
+                                "children": [
+                                  {
+                                    "type": "link",
+                                    "addDate": 1730788050848,
+                                    "title": "NestJS - A progressive Node.js framework",
+                                    "icon": "https://logo.clearbit.com/nestjs.com",
+                                    "url": "https://nestjs.com/"
                                   }
                                 ]
                               }
@@ -3440,6 +3552,13 @@
                                 "title": "Apache Cordova",
                                 "icon": "https://logo.clearbit.com/cordova.apache.org",
                                 "url": "https://cordova.apache.org/#getstarted"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1730559243693,
+                                "title": "Hotwire Native：Hotwire Native 是一个用于构建原生移动应用程序的 Web 优先框架。",
+                                "icon": "https://logo.clearbit.com/native.hotwired.dev",
+                                "url": "https://native.hotwired.dev/"
                               }
                             ]
                           },
@@ -3680,6 +3799,13 @@
                             "title": "Animate.css | A cross-browser library of CSS animations.",
                             "icon": "https://logo.clearbit.com/animate.style",
                             "url": "https://animate.style/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730390054719,
+                            "title": "TanStack | High Quality Open-Source Software for Web Developers",
+                            "icon": "https://logo.clearbit.com/tanstack.com",
+                            "url": "https://tanstack.com/"
                           }
                         ]
                       },
@@ -3897,6 +4023,20 @@
                             "title": "JSPlot",
                             "icon": "https://logo.clearbit.com/jsplot.dcford.org.uk",
                             "url": "https://jsplot.dcford.org.uk/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730688547915,
+                            "title": "MathJax | Beautiful math in all browsers.",
+                            "icon": "https://logo.clearbit.com/www.mathjax.org",
+                            "url": "https://www.mathjax.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1731391329973,
+                            "title": "Prism",
+                            "icon": "https://logo.clearbit.com/prismjs.com",
+                            "url": "https://prismjs.com/#examples"
                           }
                         ]
                       },
@@ -3953,6 +4093,27 @@
                             "title": "FortuneSheet文档",
                             "icon": "https://logo.clearbit.com/ruilisi.github.io",
                             "url": "https://ruilisi.github.io/fortune-sheet-docs/zh/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730035887363,
+                            "title": "nhn/tui.calendar: 🍞📅A JavaScript calendar that has everything you need.",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/nhn/tui.calendar?tab=readme-ov-file#-documents"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730686678116,
+                            "title": "Swapy – Easy Drag-to-Swap Solution",
+                            "icon": "https://logo.clearbit.com/swapy.tahazsh.com",
+                            "url": "https://swapy.tahazsh.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1730726368788,
+                            "title": "Day.js · 中文文档 - 2kB 大小的 JavaScript 时间日期库",
+                            "icon": "https://logo.clearbit.com/day.js.org",
+                            "url": "https://day.js.org/zh-CN/"
                           }
                         ]
                       },
@@ -4739,6 +4900,13 @@
                         "title": "Scala 3",
                         "icon": "https://logo.clearbit.com/www.scala-lang.org",
                         "url": "https://www.scala-lang.org/api/3.3.1/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1730246783330,
+                        "title": "至轻云",
+                        "icon": "https://logo.clearbit.com/zhiqingyun.isxcode.com",
+                        "url": "https://zhiqingyun.isxcode.com/"
                       }
                     ]
                   },
@@ -5026,6 +5194,20 @@
                             "url": "https://quickwit.io/docs/get-started/quickstart"
                           }
                         ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1730193033744,
+                        "title": "桌面端",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1730192931041,
+                            "title": "The GTK Project - A free and open-source cross-platform widget toolkit",
+                            "icon": "https://logo.clearbit.com/www.gtk.org",
+                            "url": "https://www.gtk.org/"
+                          }
+                        ]
                       }
                     ]
                   }
@@ -5117,6 +5299,13 @@
                         "title": "debezium/README_ZH.md at main · debezium/debezium · GitHub",
                         "icon": "https://logo.clearbit.com/github.com",
                         "url": "https://github.com/debezium/debezium/blob/main/README_ZH.md"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731289376352,
+                        "title": "bytebase/bytebase: The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/bytebase/bytebase"
                       }
                     ]
                   },
@@ -5276,8 +5465,8 @@
                         "type": "link",
                         "addDate": 1636936063000,
                         "title": "HypergraphDB - A Graph Database",
-                        "icon": "https://logo.clearbit.com/www.hypergraphdb.org",
-                        "url": "http://www.hypergraphdb.org/?project=hypergraphdb&page=Home"
+                        "icon": "https://logo.clearbit.com/hypergraphdb.org",
+                        "url": "https://hypergraphdb.org/"
                       },
                       {
                         "type": "link",
@@ -5285,6 +5474,13 @@
                         "title": "HugeGraph-Introduction · GitBook",
                         "icon": "https://logo.clearbit.com/hugegraph.github.io",
                         "url": "https://hugegraph.github.io/hugegraph-doc/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1731460726591,
+                        "title": "hypergraphdb/hypergraphdb: HyperGraphDB is a general purpose, extensible, portable, distributed, embeddable, open-source data storage mechanism. It is a graph database designed specifically for artificial intelligence and semantic web projects, it can also be used as an embedded object-oriented database for projects of all sizes.",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/hypergraphdb/hypergraphdb"
                       }
                     ]
                   },
@@ -7988,6 +8184,20 @@
                         ]
                       },
                       {
+                        "type": "folder",
+                        "addDate": 1691929197813,
+                        "title": "Podman",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1691929180671,
+                            "title": "Podman",
+                            "icon": "https://logo.clearbit.com/podman.io",
+                            "url": "https://podman.io/"
+                          }
+                        ]
+                      },
+                      {
                         "type": "link",
                         "addDate": 1636936063000,
                         "title": "Windows | Scoop软件包管理神器 | 小新博客",
@@ -8063,20 +8273,6 @@
                         "title": "Quick Start - 1Remote",
                         "icon": "https://logo.clearbit.com/1remote.org",
                         "url": "https://1remote.org/usage/quick-start/"
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1691929197813,
-                        "title": "Podman",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1691929180671,
-                            "title": "Podman",
-                            "icon": "https://logo.clearbit.com/podman.io",
-                            "url": "https://podman.io/"
-                          }
-                        ]
                       },
                       {
                         "type": "link",
@@ -8754,83 +8950,6 @@
             "addDate": 1658852984272,
             "title": "常用工具",
             "children": [
-              {
-                "type": "folder",
-                "addDate": 1693232313195,
-                "title": "外快",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1693232313195,
-                    "title": "开源众包平台",
-                    "icon": "https://logo.clearbit.com/zb.oschina.net",
-                    "url": "https://zb.oschina.net/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693232313195,
-                    "title": "亿图推广平台",
-                    "icon": "https://logo.clearbit.com/www.edrawsoft.cn",
-                    "url": "http://www.edrawsoft.cn/retail/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693232313196,
-                    "title": "uTest - The Professional Network for Testers",
-                    "icon": "https://logo.clearbit.com/www.utest.com",
-                    "url": "https://www.utest.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693232313196,
-                    "title": "Gitee Reward - Gitee.com",
-                    "icon": "https://logo.clearbit.com/gitee.com",
-                    "url": "https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1693232313196,
-                    "title": "介绍 | 哔哩哔哩直播开放平台开发文档",
-                    "icon": "https://logo.clearbit.com/open-live.bilibili.com",
-                    "url": "https://open-live.bilibili.com/document/"
-                  },
-                  {
-                    "type": "folder",
-                    "addDate": 1693232313196,
-                    "title": "通用API工具",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1693232313196,
-                        "title": "ALAPI",
-                        "icon": "https://logo.clearbit.com/www.alapi.cn",
-                        "url": "https://www.alapi.cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1693232313196,
-                        "title": "IP地址查询 - 在线工具",
-                        "icon": "https://logo.clearbit.com/tool.lu",
-                        "url": "https://tool.lu/ip/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1693232313196,
-                        "title": "代码生成 - 天启开放平台",
-                        "icon": "https://logo.clearbit.com/tianqi.aminer.cn",
-                        "url": "https://tianqi.aminer.cn/open/document/code_ref/codegeex_generation"
-                      }
-                    ]
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1707010424977,
-                    "title": "HuntsBot|狩猎机器人,一站式外包任务、远程工作、产品创意分享与订阅平台",
-                    "icon": "https://logo.clearbit.com/www.huntsbot.com",
-                    "url": "https://www.huntsbot.com/"
-                  }
-                ]
-              },
               {
                 "type": "folder",
                 "addDate": 1694307230440,
@@ -9745,6 +9864,13 @@
           },
           {
             "type": "link",
+            "addDate": 1730683546385,
+            "title": "WebJars - Web Libraries in Jars",
+            "icon": "https://logo.clearbit.com/www.webjars.org",
+            "url": "https://www.webjars.org/"
+          },
+          {
+            "type": "link",
             "addDate": 1667617785929,
             "title": "Maven Repository: Search/Browse/Explore",
             "icon": "https://logo.clearbit.com/mvnrepository.com",
@@ -9788,213 +9914,11 @@
         ]
       },
       {
-        "type": "folder",
-        "addDate": 1719555615065,
-        "title": "AI工具",
-        "children": [
-          {
-            "type": "link",
-            "addDate": 1717425076508,
-            "title": "V-Express：南京大学和腾讯联合开源数字人，音频驱动图片生成讲话视频，又一数字人免费平替",
-            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
-            "url": "https://mp.weixin.qq.com/s/T1zr80RxvY7AZihkS1prsw"
-          },
-          {
-            "type": "link",
-            "addDate": 1698219825211,
-            "title": "文心一言",
-            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
-            "url": "https://yiyan.baidu.com/"
-          },
-          {
-            "type": "link",
-            "addDate": 1718329421936,
-            "title": "Kimi.ai - 帮你看更大的世界",
-            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
-            "url": "https://kimi.moonshot.cn/"
-          },
-          {
-            "type": "link",
-            "addDate": 1686145717004,
-            "title": "用自己训练的AI玩王者荣耀是什么体验？ - 知乎",
-            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
-            "url": "https://zhuanlan.zhihu.com/p/342791663"
-          },
-          {
-            "type": "link",
-            "addDate": 1714395833692,
-            "title": "大模型 AI 应用全栈开发知识体系 v1.4.1",
-            "icon": "https://logo.clearbit.com/agiclass.feishu.cn",
-            "url": "https://agiclass.feishu.cn/docx/Z3Aed6qXboiF8gxGuaccNHxanOc?from=from_qr_code"
-          },
-          {
-            "type": "link",
-            "addDate": 1719310015259,
-            "title": "通义",
-            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
-            "url": "https://tongyi.aliyun.com/qianwen"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "type": "folder",
-    "addDate": 1726622016408,
-    "title": "工作区收藏夹",
-    "children": [
-      {
-        "type": "folder",
-        "addDate": 1726623095993,
-        "title": "代码工作",
-        "children": [
-          {
-            "type": "folder",
-            "addDate": 1727246307051,
-            "title": "Java",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1727246313323,
-                "title": "规范",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1727246292086,
-                    "title": "规范 | The Eclipse Foundation",
-                    "icon": "https://logo.clearbit.com/jakarta.ee",
-                    "url": "https://jakarta.ee/zh/specifications/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1727245678157,
-                    "title": "Java EE - Technologies",
-                    "icon": "https://logo.clearbit.com/www.oracle.com",
-                    "url": "https://www.oracle.com/java/technologies/javaee/javaeetechnologies.html"
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1728013288312,
-            "title": "kotlin",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1728013280393,
-                "title": "Get started with Kotlin Multiplatform | Kotlin Multiplatform Development Documentation",
-                "icon": "https://logo.clearbit.com/www.jetbrains.com",
-                "url": "https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html"
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1728377650685,
-            "title": "桌面端",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1728377650688,
-                "title": "windows",
-                "children": [
-                  {
-                    "type": "folder",
-                    "addDate": 1728377650687,
-                    "title": "aardio",
-                    "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1728377630757,
-                        "title": "aardio 官方网站",
-                        "icon": "https://logo.clearbit.com/www.aardio.com",
-                        "url": "https://www.aardio.com/"
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "type": "folder",
-                "addDate": 1728377650690,
-                "title": "any",
-                "children": []
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1729520305805,
-            "title": "JavaScript",
-            "children": [
-              {
-                "type": "folder",
-                "addDate": 1729520305809,
-                "title": "UI",
-                "children": [
-                  {
-                    "type": "link",
-                    "addDate": 1729520295895,
-                    "title": "MUI: The React component library you always wanted",
-                    "icon": "https://logo.clearbit.com/mui.com",
-                    "url": "https://mui.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729520308019,
-                    "title": "iView / View Design 一套企业级 UI 组件库和前端解决方案",
-                    "icon": "https://logo.clearbit.com/iviewui.com",
-                    "url": "https://iviewui.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729520310143,
-                    "title": "一个 Vue 3 UI 框架 | Element Plus",
-                    "icon": "https://logo.clearbit.com/element-plus.org",
-                    "url": "https://element-plus.org/zh-CN/#/zh-CN"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729520315477,
-                    "title": "Arco Design - 企业级产品的完整设计和开发解决方案",
-                    "icon": "https://logo.clearbit.com/arco.design",
-                    "url": "https://arco.design/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729520317809,
-                    "title": "TDesign - 开源的企业级设计体系，为设计师 & 开发者，打造工作美学",
-                    "icon": "https://logo.clearbit.com/tdesign.tencent.com",
-                    "url": "https://tdesign.tencent.com/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729520325440,
-                    "title": "Naive UI: 一个 Vue 3 组件库",
-                    "icon": "https://logo.clearbit.com/www.naiveui.com",
-                    "url": "https://www.naiveui.com/zh-CN/os-theme"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729576379946,
-                    "title": "SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes",
-                    "icon": "https://logo.clearbit.com/sweetalert2.github.io",
-                    "url": "https://sweetalert2.github.io/"
-                  },
-                  {
-                    "type": "link",
-                    "addDate": 1729686699476,
-                    "title": "React Data Grid - Documentation | Handsontable",
-                    "icon": "https://logo.clearbit.com/handsontable.com",
-                    "url": "https://handsontable.com/docs/react-data-grid/"
-                  }
-                ]
-              }
-            ]
-          }
-        ]
+        "type": "link",
+        "addDate": 1729587546462,
+        "title": "收藏夹工程",
+        "icon": "https://logo.clearbit.com/gengpu.github.io",
+        "url": "https://gengpu.github.io/pintree/"
       }
     ]
   }
