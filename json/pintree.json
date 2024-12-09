@@ -556,20 +556,6 @@
                           },
                           {
                             "type": "link",
-                            "addDate": 1689816660920,
-                            "title": "mybatis – MyBatis 3 | SQL 语句构建器",
-                            "icon": "https://logo.clearbit.com/mybatis.org",
-                            "url": "https://mybatis.org/mybatis-3/zh/statement-builders.html"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1701350404864,
-                            "title": "R2DBC",
-                            "icon": "https://logo.clearbit.com/r2dbc.io",
-                            "url": "https://r2dbc.io/"
-                          },
-                          {
-                            "type": "link",
                             "addDate": 1717122904986,
                             "title": "Hippo4j | Hippo4j",
                             "icon": "https://logo.clearbit.com/hippo4j.cn",
@@ -1375,15 +1361,8 @@
                           },
                           {
                             "type": "link",
-                            "addDate": 1720360883267,
-                            "title": "Apache SIS - Apache SIS™ 库",
-                            "icon": "https://logo.clearbit.com/sis.apache.org",
-                            "url": "https://sis.apache.org/"
-                          },
-                          {
-                            "type": "link",
                             "addDate": 1720360933240,
-                            "title": "Apache Velocity 项目",
+                            "title": "Apache Velocity 基于 Java 的模板引擎",
                             "icon": "https://logo.clearbit.com/velocity.apache.org",
                             "url": "https://velocity.apache.org/"
                           },
@@ -1477,6 +1456,41 @@
                             "title": "spullara/mustache.java: Implementation of mustache.js for Java",
                             "icon": "https://logo.clearbit.com/github.com",
                             "url": "https://github.com/spullara/mustache.java"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732510825991,
+                            "title": "开始使用 · opensagres/xdocreport  一个 MS ODT 转 PDF",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/opensagres/xdocreport/wiki/GettingStarted"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732615443819,
+                            "title": "瓦夫尔",
+                            "icon": "https://logo.clearbit.com/vavr.io",
+                            "url": "https://vavr.io/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732615450313,
+                            "title": "Joda-Time - 主页",
+                            "icon": "https://logo.clearbit.com/www.joda.org",
+                            "url": "https://www.joda.org/joda-time/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732865884790,
+                            "title": "OpenRewrite by Moderne | Large Scale Automated Refactoring | OpenRewrite Docs",
+                            "icon": "https://logo.clearbit.com/docs.openrewrite.org",
+                            "url": "https://docs.openrewrite.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1636936063000,
+                            "title": "Documentation - Thymeleaf",
+                            "icon": "https://logo.clearbit.com/www.thymeleaf.org",
+                            "url": "https://www.thymeleaf.org/documentation.html"
                           }
                         ]
                       },
@@ -1678,6 +1692,13 @@
                                 "title": "盘古通用权限系统开发框架 | 快速开始 | SUCI(Vue3、Element-Plus) | 盘古开发框架",
                                 "icon": "https://logo.clearbit.com/pulanos.gitee.io",
                                 "url": "https://pulanos.gitee.io/pangu-framework/admin/intro"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1732865348660,
+                                "title": "Cloud Native App Initializer",
+                                "icon": "https://logo.clearbit.com/start.aliyun.com",
+                                "url": "https://start.aliyun.com/"
                               }
                             ]
                           },
@@ -1789,7 +1810,7 @@
                           {
                             "type": "link",
                             "addDate": 1706258264211,
-                            "title": "Apache Thrift - Home",
+                            "title": "Apache Thrift - 可扩展的跨语言服务",
                             "icon": "https://logo.clearbit.com/thrift.apache.org",
                             "url": "https://thrift.apache.org/"
                           },
@@ -1820,6 +1841,118 @@
                             "title": "Grace Framework - It is, Your Grace!",
                             "icon": "https://logo.clearbit.com/graceframework.org",
                             "url": "https://graceframework.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732297062213,
+                            "title": "Wicket 10.x Reference Guide",
+                            "icon": "https://logo.clearbit.com/nightlies.apache.org",
+                            "url": "https://nightlies.apache.org/wicket/guide/10.x/single.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732602083613,
+                            "title": "Home — Dropwizard",
+                            "icon": "https://logo.clearbit.com/www.dropwizard.io",
+                            "url": "https://www.dropwizard.io/en/stable/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732602091677,
+                            "title": "简介 — Xitrum Scala Web 框架指南 3.30.0 文档 --- Introduction — Xitrum Scala Web Framework Guide 3.30.0 documentation",
+                            "icon": "https://logo.clearbit.com/xitrum-framework.github.io",
+                            "url": "https://xitrum-framework.github.io/guide/3.30/html/en/intro.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733112527722,
+                            "title": "PrimeFaces – Ultimate UI Framework",
+                            "icon": "https://logo.clearbit.com/www.primefaces.org",
+                            "url": "https://www.primefaces.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733287924878,
+                            "title": "joinfaces/joinfaces: JoinFaces: JSF Spring Boot Starters - JSF inside Spring Boot Application",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/joinfaces/joinfaces"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733288773468,
+                            "title": "JoinFaces Reference Guide",
+                            "icon": "https://logo.clearbit.com/docs.joinfaces.org",
+                            "url": "https://docs.joinfaces.org/current/reference/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733292857702,
+                            "title": "JoinFaces",
+                            "icon": "https://logo.clearbit.com/joinfaces.org",
+                            "url": "http://joinfaces.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733314765697,
+                            "title": "PrimeFaces VDL Documentation",
+                            "icon": "https://logo.clearbit.com/primefaces.github.io",
+                            "url": "https://primefaces.github.io/primefaces/vdldoc/"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1733471405325,
+                        "title": "orm",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1650965128000,
+                            "title": "Apache Cayenne - orm 工具框架 数据结构优先",
+                            "icon": "https://logo.clearbit.com/cayenne.apache.org",
+                            "url": "https://cayenne.apache.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1689816660920,
+                            "title": "mybatis – MyBatis 3 | SQL 语句构建器",
+                            "icon": "https://logo.clearbit.com/mybatis.org",
+                            "url": "https://mybatis.org/mybatis-3/zh/statement-builders.html"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1701350404864,
+                            "title": "R2DBC",
+                            "icon": "https://logo.clearbit.com/r2dbc.io",
+                            "url": "https://r2dbc.io/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732601800050,
+                            "title": "Jdbi 3 Developer Guide",
+                            "icon": "https://logo.clearbit.com/jdbi.org",
+                            "url": "https://jdbi.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733471563474,
+                            "title": "Hibernate. Everything data.",
+                            "icon": "https://logo.clearbit.com/hibernate.org",
+                            "url": "https://hibernate.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733471569218,
+                            "title": "EclipseLink",
+                            "icon": "https://logo.clearbit.com/eclipse.dev",
+                            "url": "https://eclipse.dev/eclipselink/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1648997667000,
+                            "title": "Querydsl - Unified Queries for Java",
+                            "icon": "https://logo.clearbit.com/querydsl.com",
+                            "url": "http://querydsl.com/#"
                           }
                         ]
                       },
@@ -2345,6 +2478,13 @@
                             "title": "nifty-gui/nifty-gui: Your Open Source Java OpenGL GUI. Interactive user interfaces for games or similar applications. LWJGL, JOGL, JME or Java2d rendering.",
                             "icon": "https://logo.clearbit.com/github.com",
                             "url": "https://github.com/nifty-gui/nifty-gui"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1733403568736,
+                            "title": "webview/webview_java: A Java wrapper of https://github.com/webview/webview",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/webview/webview_java"
                           }
                         ]
                       },
@@ -2729,7 +2869,22 @@
                         "type": "folder",
                         "addDate": 1694143311070,
                         "title": "gradle",
-                        "children": []
+                        "children": [
+                          {
+                            "type": "folder",
+                            "addDate": 1732594543546,
+                            "title": "gradle插件",
+                            "children": [
+                              {
+                                "type": "link",
+                                "addDate": 1732594520253,
+                                "title": "Gretty documentation",
+                                "icon": "https://logo.clearbit.com/gretty-gradle-plugin.github.io",
+                                "url": "https://gretty-gradle-plugin.github.io/gretty-doc/"
+                              }
+                            ]
+                          }
+                        ]
                       },
                       {
                         "type": "folder",
@@ -2810,24 +2965,10 @@
                       },
                       {
                         "type": "link",
-                        "addDate": 1638188192000,
-                        "title": "Cayenne Guide · Apache Cayenne",
-                        "icon": "https://logo.clearbit.com/cayenne.apache.org",
-                        "url": "https://cayenne.apache.org/docs/4.1/cayenne-guide/"
-                      },
-                      {
-                        "type": "link",
                         "addDate": 1645106117000,
                         "title": "Alink教程 · 语雀",
                         "icon": "https://logo.clearbit.com/www.yuque.com",
                         "url": "https://www.yuque.com/pinshu/alink_tutorial"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1648997667000,
-                        "title": "Querydsl - Unified Queries for Java",
-                        "icon": "https://logo.clearbit.com/querydsl.com",
-                        "url": "http://querydsl.com/#"
                       },
                       {
                         "type": "link",
@@ -2945,15 +3086,7 @@
                         "type": "folder",
                         "addDate": 1698848385903,
                         "title": "存储",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1698848372766,
-                            "title": "Apache Jackrabbit – 欢迎来到 Apache Jackrabbit",
-                            "icon": "https://logo.clearbit.com/jackrabbit.apache.org",
-                            "url": "https://jackrabbit.apache.org/jcr/index.html"
-                          }
-                        ]
+                        "children": []
                       },
                       {
                         "type": "folder",
@@ -2966,6 +3099,34 @@
                             "title": "Apache TinkerPop: Home",
                             "icon": "https://logo.clearbit.com/tinkerpop.apache.org",
                             "url": "https://tinkerpop.apache.org/index.html"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1718766791503,
+                        "title": "云",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1718766780358,
+                            "title": "CloudStack -基础设施即服务 （IaaS） 云计算平台",
+                            "icon": "https://logo.clearbit.com/cloudstack.apache.org",
+                            "url": "https://cloudstack.apache.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1718766796274,
+                            "title": "Apache OpenWhisk is a serverless, 无服务器云平台",
+                            "icon": "https://logo.clearbit.com/openwhisk.apache.org",
+                            "url": "https://openwhisk.apache.org/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1718766799354,
+                            "title": "Apache ServiceComb - 实现Open API规范的RPC框架",
+                            "icon": "https://logo.clearbit.com/servicecomb.apache.org",
+                            "url": "https://servicecomb.apache.org/"
                           }
                         ]
                       },
@@ -2986,7 +3147,7 @@
                       {
                         "type": "link",
                         "addDate": 1698920124146,
-                        "title": "Welcome to Apache Solr - Apache Solr",
+                        "title": "多模式搜索平台 - Apache Solr",
                         "icon": "https://logo.clearbit.com/solr.apache.org",
                         "url": "https://solr.apache.org/"
                       },
@@ -3007,7 +3168,7 @@
                       {
                         "type": "link",
                         "addDate": 1649664668000,
-                        "title": "Apache Nutch™",
+                        "title": "Apache Nutch™ - web 爬虫",
                         "icon": "https://logo.clearbit.com/nutch.apache.org",
                         "url": "https://nutch.apache.org/"
                       },
@@ -3017,13 +3178,6 @@
                         "title": "Apache Daffodil | Getting Started",
                         "icon": "https://logo.clearbit.com/daffodil.apache.org",
                         "url": "https://daffodil.apache.org/getting-started/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1650965128000,
-                        "title": "Apache Cayenne",
-                        "icon": "https://logo.clearbit.com/cayenne.apache.org",
-                        "url": "https://cayenne.apache.org/"
                       },
                       {
                         "type": "link",
@@ -3077,7 +3231,7 @@
                       {
                         "type": "link",
                         "addDate": 1650971983000,
-                        "title": "Apache Wicket",
+                        "title": "Apache Wicket 一个基于servlet 的Javaweb框架",
                         "icon": "https://logo.clearbit.com/wicket.apache.org",
                         "url": "https://wicket.apache.org/"
                       },
@@ -3105,7 +3259,7 @@
                       {
                         "type": "link",
                         "addDate": 1653481966000,
-                        "title": "Apache Geronimo",
+                        "title": "Apache Geronimo 开源服务器运行时",
                         "icon": "https://logo.clearbit.com/geronimo.apache.org",
                         "url": "https://geronimo.apache.org/"
                       },
@@ -3126,7 +3280,7 @@
                       {
                         "type": "link",
                         "addDate": 1658385343000,
-                        "title": "Apache(tm) XML Graphics Project - for the creation and maintenance of software for the conversion of XML formats to graphical output",
+                        "title": "apache xmlgraphics 图形项目",
                         "icon": "https://logo.clearbit.com/xmlgraphics.apache.org",
                         "url": "https://xmlgraphics.apache.org/"
                       },
@@ -3147,7 +3301,7 @@
                       {
                         "type": "link",
                         "addDate": 1666582288225,
-                        "title": "Apache Tika – Apache Tika",
+                        "title": "Apache Tika – 一千多种不同文件类型（如 PPT、XLS 和 PDF）的元数据和文本",
                         "icon": "https://logo.clearbit.com/tika.apache.org",
                         "url": "https://tika.apache.org/"
                       },
@@ -3168,7 +3322,7 @@
                       {
                         "type": "link",
                         "addDate": 1667527339988,
-                        "title": "Apache Calcite • Dynamic data management framework",
+                        "title": "Apache Calcite • 高性能数据查询框架",
                         "icon": "https://logo.clearbit.com/calcite.apache.org",
                         "url": "https://calcite.apache.org/"
                       },
@@ -3224,58 +3378,1122 @@
                       {
                         "type": "link",
                         "addDate": 1711522214606,
-                        "title": "欢迎来到 Apache ServiceMix！ESB",
+                        "title": " Apache ServiceMix 一个完整的、企业就绪的 ESB，完全由 OSGi 提供支持",
                         "icon": "https://logo.clearbit.com/servicemix.apache.org",
                         "url": "https://servicemix.apache.org/"
                       },
                       {
                         "type": "link",
                         "addDate": 1711522228983,
-                        "title": "OSGI Apache Karaf - The Modulith Runtime",
+                        "title": "OSGI Apache Karaf - Modulith 运行时",
                         "icon": "https://logo.clearbit.com/karaf.apache.org",
                         "url": "https://karaf.apache.org/"
                       },
                       {
-                        "type": "folder",
-                        "addDate": 1718766791503,
-                        "title": "云",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1718766780358,
-                            "title": "Apache CloudStack的 |Apache CloudStack的",
-                            "icon": "https://logo.clearbit.com/cloudstack.apache.org",
-                            "url": "https://cloudstack.apache.org/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1718766792795,
-                            "title": "Apache Mesos",
-                            "icon": "https://logo.clearbit.com/mesos.apache.org",
-                            "url": "https://mesos.apache.org/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1718766796274,
-                            "title": "Apache OpenWhisk is a serverless, open source cloud platform",
-                            "icon": "https://logo.clearbit.com/openwhisk.apache.org",
-                            "url": "https://openwhisk.apache.org/"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1718766799354,
-                            "title": "Apache ServiceComb",
-                            "icon": "https://logo.clearbit.com/servicecomb.apache.org",
-                            "url": "https://servicecomb.apache.org/"
-                          }
-                        ]
+                        "type": "link",
+                        "addDate": 1732001116800,
+                        "title": "The Apache OFBiz® Project - Demos",
+                        "icon": "https://logo.clearbit.com/ofbiz.apache.org",
+                        "url": "https://ofbiz.apache.org/ofbiz-demos.html"
                       },
                       {
                         "type": "link",
-                        "addDate": 1730345130513,
-                        "title": "阿帕奇皇家",
+                        "addDate": 1733731393963,
+                        "title": "Apache Griffin 数据质量",
+                        "icon": "https://logo.clearbit.com/griffin.apache.org",
+                        "url": "https://griffin.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731407845,
+                        "title": "Apache Gora™ - Gora Tutorial - 数据映射",
+                        "icon": "https://logo.clearbit.com/gora.apache.org",
+                        "url": "https://gora.apache.org/current/tutorial.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731709268,
+                        "title": "NiFi - 数据血缘分发处理",
+                        "icon": "https://logo.clearbit.com/nifi.apache.org",
+                        "url": "https://nifi.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731805215,
+                        "title": "Griffin - Quick Start - 数据质量",
+                        "icon": "https://logo.clearbit.com/griffin.apache.org",
+                        "url": "https://griffin.apache.org/docs/quickstart-cn.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731833608,
+                        "title": " Apache Felix - OSGi",
+                        "icon": "https://logo.clearbit.com/felix.apache.org",
+                        "url": "https://felix.apache.org/documentation/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731859600,
+                        "title": "Apache EventMesh - 分布式事件驱动型应用程序",
+                        "icon": "https://logo.clearbit.com/eventmesh.apache.org",
+                        "url": "https://eventmesh.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731888369,
+                        "title": "Apache Fineract - 银行核心",
+                        "icon": "https://logo.clearbit.com/fineract.apache.org",
+                        "url": "https://fineract.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733731963289,
+                        "title": "Apache Flagon - 网页行为捕获器",
+                        "icon": "https://logo.clearbit.com/flagon.apache.org",
+                        "url": "https://flagon.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732001910,
+                        "title": "Apache Fluo - 大规模增量处理 增量更新",
+                        "icon": "https://logo.clearbit.com/fluo.apache.org",
+                        "url": "https://fluo.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732037517,
+                        "title": "Apache AGE - 图数据库 PostgreSQL",
+                        "icon": "https://logo.clearbit.com/age.apache.org",
+                        "url": "https://age.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732086144,
+                        "title": "Apache Accumulo - 基于Hadoop与Zookeeper的分布式键值存储",
+                        "icon": "https://logo.clearbit.com/accumulo.apache.org",
+                        "url": "https://accumulo.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732321598,
+                        "title": "Allura - 开源项目托管平台",
+                        "icon": "https://logo.clearbit.com/allura.apache.org",
+                        "url": "https://allura.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732390918,
+                        "title": "Airflow - 开发、调度、 以及监控面向批处理的工作流",
+                        "icon": "https://logo.clearbit.com/airflow.apache.org",
+                        "url": "https://airflow.apache.org/docs/apache-airflow/stable/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732432786,
+                        "title": "Airavata - 支持在基于网格的系统、远程集群和基于云的系统中执行和管理计算科学应用程序和工作流",
+                        "icon": "https://logo.clearbit.com/airavata.apache.org",
+                        "url": "https://airavata.apache.org/learning.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732642079,
+                        "title": "Apache APISIX® - 全生命周期 API 管理",
+                        "icon": "https://logo.clearbit.com/apisix.apache.org",
+                        "url": "https://apisix.apache.org/zh/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732765548,
+                        "title": "Apache Aries - 企业OSGI 程序框架",
+                        "icon": "https://logo.clearbit.com/aries.apache.org",
+                        "url": "https://aries.apache.org/documentation/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732827458,
+                        "title": "开源大数据管理系统 - AsterixDB",
+                        "icon": "https://logo.clearbit.com/asterixdb.apache.org",
+                        "url": "https://asterixdb.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732853740,
+                        "title": "内存分析的开发平台 - ARROW",
+                        "icon": "https://logo.clearbit.com/arrow.apache.org",
+                        "url": "https://arrow.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732896406,
+                        "title": "Apache Atlas – Hadoop 的数据治理和元数据框架",
+                        "icon": "https://logo.clearbit.com/atlas.apache.org",
+                        "url": "https://atlas.apache.org/#/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733732923472,
+                        "title": "数据序列化系统 - avro",
+                        "icon": "https://logo.clearbit.com/avro.apache.org",
+                        "url": "https://avro.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733237671,
+                        "title": "Axis - SOAP WSDL web 服务",
+                        "icon": "https://logo.clearbit.com/axis.apache.org",
+                        "url": "https://axis.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733302600,
+                        "title": "Apache BVal - Bean Validation 校验",
+                        "icon": "https://logo.clearbit.com/bval.apache.org",
+                        "url": "https://bval.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733366723,
+                        "title": "Apache Beam - 批流一体数据处理工作流",
+                        "icon": "https://logo.clearbit.com/beam.apache.org",
+                        "url": "https://beam.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733436678,
+                        "title": "Bigtop – 大数据自动配置",
+                        "icon": "https://logo.clearbit.com/bigtop.apache.org",
+                        "url": "https://bigtop.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733497670,
+                        "title": "可扩展、容错、低延迟的存储服务 - BookKeeper",
+                        "icon": "https://logo.clearbit.com/bookkeeper.apache.org",
+                        "url": "https://bookkeeper.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733601480,
+                        "title": "部署编排、云、容器、物理机-Brooklyn",
+                        "icon": "https://logo.clearbit.com/brooklyn.apache.org",
+                        "url": "https://brooklyn.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733881987,
+                        "title": "软件集成工具 - BuildStream",
+                        "icon": "https://logo.clearbit.com/buildstream.apache.org",
+                        "url": "https://buildstream.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733733915530,
+                        "title": "bRPC - C++工业级 RPC 框架",
+                        "icon": "https://logo.clearbit.com/brpc.apache.org",
+                        "url": "https://brpc.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734018402,
+                        "title": "Apache CXF - 开源服务框架",
+                        "icon": "https://logo.clearbit.com/cxf.apache.org",
+                        "url": "https://cxf.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734173552,
+                        "title": "开源集成式软件框架 - Apache Camel",
+                        "icon": "https://logo.clearbit.com/camel.apache.org",
+                        "url": "https://camel.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734340788,
+                        "title": "carbondata - 列数据 hadoop",
+                        "icon": "https://logo.clearbit.com/carbondata.apache.org",
+                        "url": "https://carbondata.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734394846,
+                        "title": "Apache Cassandra 开源 NoSQL 分布式数据库",
+                        "icon": "https://logo.clearbit.com/cassandra.apache.org",
+                        "url": "https://cassandra.apache.org/_/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734432304,
+                        "title": "cuaseway - 动态生成 UI 和 API 来支持域驱动的应用程序",
+                        "icon": "https://logo.clearbit.com/causeway.apache.org",
+                        "url": "https://causeway.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734510289,
+                        "title": "Celeborn - 大数据计算引擎（即 ETL、OLAP 和流引擎）中间服务",
+                        "icon": "https://logo.clearbit.com/celeborn.apache.org",
+                        "url": "https://celeborn.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734552570,
+                        "title": "欢迎使用 Apache Celix - C 和 C++ 的 OSGi",
+                        "icon": "https://logo.clearbit.com/celix.apache.org",
+                        "url": "https://celix.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734703192,
+                        "title": "Apache Cordova - app 工具开发 基于 html",
+                        "icon": "https://logo.clearbit.com/cordova.apache.org",
+                        "url": "https://cordova.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734717567,
+                        "title": "Apache CouchDB",
+                        "icon": "https://logo.clearbit.com/couchdb.apache.org",
+                        "url": "https://couchdb.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734806811,
+                        "title": "Apache CouchDB - JSON 数据库 强复制协议",
+                        "icon": "https://logo.clearbit.com/couchdb.apache.org",
+                        "url": "https://couchdb.apache.org/#about"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733734879356,
+                        "title": "使 Apache ZooKeeper 的使用变得更加容易和可靠 | Apache Curator",
+                        "icon": "https://logo.clearbit.com/curator.apache.org",
+                        "url": "https://curator.apache.org/docs/about"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735018673,
+                        "title": "Apache Daffodil - 数据结构转化",
+                        "icon": "https://logo.clearbit.com/daffodil.apache.org",
+                        "url": "https://daffodil.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735048049,
+                        "title": "Apache DataFu - hadoop 库集合",
+                        "icon": "https://logo.clearbit.com/datafu.apache.org",
+                        "url": "https://datafu.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735114785,
+                        "title": "DataSketches 准大数据快速分析",
+                        "icon": "https://logo.clearbit.com/datasketches.apache.org",
+                        "url": "https://datasketches.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735145548,
+                        "title": "Apache DataFusion - Arrow 查询引擎 Rus",
+                        "icon": "https://logo.clearbit.com/datafusion.apache.org",
+                        "url": "https://datafusion.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735265687,
+                        "title": "Apache DolphinScheduler - 可视化DAG工作流任务调度开源系统",
+                        "icon": "https://logo.clearbit.com/dolphinscheduler.apache.org",
+                        "url": "https://dolphinscheduler.apache.org/zh-cn"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735290902,
+                        "title": "Apache Doris:实时分析的现代数据仓库",
+                        "icon": "https://logo.clearbit.com/doris.apache.org",
+                        "url": "https://doris.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735307042,
+                        "title": "Apache Drill - 适用于 Hadoop、NoSQL 和云存储的无架构 SQL",
+                        "icon": "https://logo.clearbit.com/drill.apache.org",
+                        "url": "https://drill.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735327229,
+                        "title": "Apache Druid | 高性能的实时分析数据库",
+                        "icon": "https://logo.clearbit.com/druid.apache.org",
+                        "url": "https://druid.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735338235,
+                        "title": "Apache Dubbo - 云原生微服务框架",
+                        "icon": "https://logo.clearbit.com/cn.dubbo.apache.org",
+                        "url": "https://cn.dubbo.apache.org/zh-cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735442843,
+                        "title": "Apache Geode 数据管理平台",
+                        "icon": "https://logo.clearbit.com/geode.apache.org",
+                        "url": "https://geode.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735518180,
+                        "title": "Apache Gobblin - 分布式数据集成框架",
+                        "icon": "https://logo.clearbit.com/gobblin.apache.org",
+                        "url": "https://gobblin.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735537130,
+                        "title": "Apache Gora™ - 内存数据模型和 大数据的持久性",
+                        "icon": "https://logo.clearbit.com/gora.apache.org",
+                        "url": "https://gora.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735582604,
+                        "title": "Apache Guacamole™ - 通过HTML 访问应用系统",
+                        "icon": "https://logo.clearbit.com/guacamole.apache.org",
+                        "url": "https://guacamole.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735771581,
+                        "title": "Gump 持续集成工具",
+                        "icon": "https://logo.clearbit.com/gump.apache.org",
+                        "url": "https://gump.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735803340,
+                        "title": "Apache Helix – 集群管理框架",
+                        "icon": "https://logo.clearbit.com/helix.apache.org",
+                        "url": "https://helix.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735818997,
+                        "title": "Apache Hop - 数据集成平台可视化",
+                        "icon": "https://logo.clearbit.com/hop.apache.org",
+                        "url": "https://hop.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735867958,
+                        "title": "Apache Hudi |开放式数据湖仓一体平台",
+                        "icon": "https://logo.clearbit.com/hudi.apache.org",
+                        "url": "https://hudi.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735893664,
+                        "title": "Apache HBase – 分布式、版本化、非关系数据库",
+                        "icon": "https://logo.clearbit.com/hbase.apache.org",
+                        "url": "https://hbase.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735935167,
+                        "title": "Apache Hadoop - 大数据基础设施",
+                        "icon": "https://logo.clearbit.com/hadoop.apache.org",
+                        "url": "https://hadoop.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733735995427,
+                        "title": "Apache InLong 大数据一站式全场景集成框架",
+                        "icon": "https://logo.clearbit.com/inlong.apache.org",
+                        "url": "https://inlong.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736054074,
+                        "title": "Apache Iceberg - 分析数据集的开放表格式",
+                        "icon": "https://logo.clearbit.com/iceberg.apache.org",
+                        "url": "https://iceberg.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736077821,
+                        "title": "分布式数据库 - Apache Ignite",
+                        "icon": "https://logo.clearbit.com/ignite.apache.org",
+                        "url": "https://ignite.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1661603891239,
+                        "title": "Impala - 开放数据和表格格式的开源原生分析数据库",
+                        "icon": "https://logo.clearbit.com/impala.apache.org",
+                        "url": "https://impala.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736115614,
+                        "title": "IoTDB 开放数据和表格格式的开源原生分析数据库",
+                        "icon": "https://logo.clearbit.com/iotdb.apache.org",
+                        "url": "https://iotdb.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1698848372766,
+                        "title": "Apache Jackrabbit – 内容存储库",
+                        "icon": "https://logo.clearbit.com/jackrabbit.apache.org",
+                        "url": "https://jackrabbit.apache.org/jcr/index.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736200611,
+                        "title": "Apache James -JVM 上运行的完整、稳定、安全和可扩展的邮件服务器",
+                        "icon": "https://logo.clearbit.com/james.apache.org",
+                        "url": "https://james.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736222111,
+                        "title": "Apache Jena - 开源 Java 框架，用于构建语义 Web 和链接数据应用程序",
+                        "icon": "https://logo.clearbit.com/jena.apache.org",
+                        "url": "https://jena.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736264457,
+                        "title": "Apache Johnzon –JSR-353 WebSocket 实现",
+                        "icon": "https://logo.clearbit.com/johnzon.apache.org",
+                        "url": "https://johnzon.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736299179,
+                        "title": "Apache Juneau 通用序列化和 REST API 库",
+                        "icon": "https://logo.clearbit.com/juneau.apache.org",
+                        "url": "https://juneau.apache.org/#about.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736315691,
+                        "title": "Apache jclouds® Java 平台的开源多云工具包",
+                        "icon": "https://logo.clearbit.com/jclouds.apache.org",
+                        "url": "https://jclouds.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736412238,
+                        "title": "Apache Kafka 开源分布式事件流平台",
+                        "icon": "https://logo.clearbit.com/kafka.apache.org",
+                        "url": "https://kafka.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736424516,
+                        "title": "Apache Karaf - 模块化运行时管理平台",
+                        "icon": "https://logo.clearbit.com/karaf.apache.org",
+                        "url": "https://karaf.apache.org/documentation.html"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736473752,
+                        "title": "kibble - 分析汇总可视化软件项目活动与趋势",
+                        "icon": "https://logo.clearbit.com/kibble.apache.org",
+                        "url": "https://kibble.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736511960,
+                        "title": "Knox 网关 – Apache Hadoop 生态系统的 REST API 和应用程序网关",
+                        "icon": "https://logo.clearbit.com/knox.apache.org",
+                        "url": "https://knox.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736524906,
+                        "title": "Apache Kudu - 开源分布式数据存储引擎",
+                        "icon": "https://logo.clearbit.com/kudu.apache.org",
+                        "url": "https://kudu.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736544184,
+                        "title": "Apache Kvrocks™ keyvalue NoSQL 数据库，使用 RocksDB 作为存储引擎，兼容 Redis 协议",
+                        "icon": "https://logo.clearbit.com/kvrocks.apache.org",
+                        "url": "https://kvrocks.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736562426,
+                        "title": "高并发、高性能、智能的 OLAP 引擎 Apache Kylin",
+                        "icon": "https://logo.clearbit.com/kylin.apache.org",
+                        "url": "https://kylin.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736579612,
+                        "title": "Apache Kyuubi - 多租户 Thrift JDBC/ODBC 服务器",
+                        "icon": "https://logo.clearbit.com/kyuubi.apache.org",
+                        "url": "https://kyuubi.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736622811,
+                        "title": "Apache Libcloud 是一个标准的 Python 库，它抽象出多个云提供商 API 之间的差异 |Apache Libcloud",
+                        "icon": "https://logo.clearbit.com/libcloud.apache.org",
+                        "url": "https://libcloud.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736638899,
+                        "title": "Apache Linkis 计算中间件层，以促进上层应用与底层数据引擎之间的连接、治理和编排",
+                        "icon": "https://logo.clearbit.com/linkis.apache.org",
+                        "url": "https://linkis.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736771871,
+                        "title": "Apache Lucene - Java 查询引擎",
+                        "icon": "https://logo.clearbit.com/lucene.apache.org",
+                        "url": "https://lucene.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736785984,
+                        "title": "Apache MADlib -PsotgreSQL SQL 中的大数据机器学习",
+                        "icon": "https://logo.clearbit.com/madlib.apache.org",
+                        "url": "https://madlib.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736809641,
+                        "title": "Apache MINA Java 网络交互",
+                        "icon": "https://logo.clearbit.com/mina.apache.org",
+                        "url": "https://mina.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1720360627205,
+                        "title": "Apache Mahout 线性代数 分布式线性代数框架和数学表现力强的 Scala DSL",
+                        "icon": "https://logo.clearbit.com/mahout.apache.org",
+                        "url": "https://mahout.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733736927835,
+                        "title": "搜索引擎 ManifoldCF",
+                        "icon": "https://logo.clearbit.com/manifoldcf.apache.org",
+                        "url": "https://manifoldcf.apache.org/zh_CN/index.html#%E4%BB%80%E4%B9%88%E6%98%AFManifoldCF%EF%BC%9F"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1718766792795,
+                        "title": "Apache Mesos - 分布式系统内核 云",
+                        "icon": "https://logo.clearbit.com/mesos.apache.org",
+                        "url": "https://mesos.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737025919,
+                        "title": "Apache Mnemonic •非易失性/持久 Java 对象模型和持久计算服务",
+                        "icon": "https://logo.clearbit.com/mnemonic.apache.org",
+                        "url": "https://mnemonic.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737071015,
+                        "title": "MyFace JSF 组件库",
+                        "icon": "https://logo.clearbit.com/myfaces.apache.org",
+                        "url": "https://myfaces.apache.org/#/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737156658,
+                        "title": "Apache OpenOffice - 项目网站",
+                        "icon": "https://logo.clearbit.com/openoffice.apache.org",
+                        "url": "https://openoffice.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737168913,
+                        "title": "Apache ORC • 适用于 Hadoop 的高性能列式存储",
+                        "icon": "https://logo.clearbit.com/orc.apache.org",
+                        "url": "https://orc.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737192451,
+                        "title": "Apache Olingo 库 Open数据协议",
+                        "icon": "https://logo.clearbit.com/olingo.apache.org",
+                        "url": "https://olingo.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737218820,
+                        "title": "Apache OFBiz® Java Web 框架",
+                        "icon": "https://logo.clearbit.com/ofbiz.apache.org",
+                        "url": "https://ofbiz.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733737281813,
+                        "title": "Apache OpenDAL Apache OpenDAL 为各种存储系统提供原生支持，包括对象存储服务、文件存储服务等",
+                        "icon": "https://logo.clearbit.com/opendal.apache.org",
+                        "url": "https://opendal.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742237473,
+                        "title": "Apache OpenJPA -- JPA 标准实现",
+                        "icon": "https://logo.clearbit.com/openjpa.apache.org",
+                        "url": "https://openjpa.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742294333,
+                        "title": "Apache OpenMeetings - 开源会议工具",
+                        "icon": "https://logo.clearbit.com/openmeetings.apache.org",
+                        "url": "https://openmeetings.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742312397,
+                        "title": "Apache OpenNLP - 机器学习的工具包",
+                        "icon": "https://logo.clearbit.com/opennlp.apache.org",
+                        "url": "https://opennlp.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742322774,
+                        "title": "Apache OpenWebBeans - 依赖注入",
+                        "icon": "https://logo.clearbit.com/openwebbeans.apache.org",
+                        "url": "https://openwebbeans.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742389565,
+                        "title": "Apache Ozone -高度可扩展的分布式存储，适用于分析、大数据和云原生应用程序",
+                        "icon": "https://logo.clearbit.com/ozone.apache.org",
+                        "url": "https://ozone.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742421658,
+                        "title": "Apache PDFBox | A Java PDF Library",
+                        "icon": "https://logo.clearbit.com/pdfbox.apache.org",
+                        "url": "https://pdfbox.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742431096,
+                        "title": "Apache POI™ - the Java API for Microsoft Documents",
+                        "icon": "https://logo.clearbit.com/poi.apache.org",
+                        "url": "https://poi.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742551101,
+                        "title": "PLC4X - PLC4X 是一组库 为 通信对象 工业 可编程逻辑控制器 （PLC） 使用各种协议，但具有 共享 API",
+                        "icon": "https://logo.clearbit.com/plc4x.apache.org",
+                        "url": "https://plc4x.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742571204,
+                        "title": "Parquet - 开源的、面向列的数据文件格式，旨在实现高效的数据存储和检索",
+                        "icon": "https://logo.clearbit.com/parquet.apache.org",
+                        "url": "https://parquet.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742584116,
+                        "title": "Pekko™ - 开源框架，用于构建并发、分布式、弹性和弹性的应用程序",
+                        "icon": "https://logo.clearbit.com/pekko.apache.org",
+                        "url": "https://pekko.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742613043,
+                        "title": "mod_perl - Perl 管理 Apache",
+                        "icon": "https://logo.clearbit.com/perl.apache.org",
+                        "url": "https://perl.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742664053,
+                        "title": "paimon  - 一种湖格式，支持使用 Flink 和 Spark 构建实时湖仓一体架构",
+                        "icon": "https://logo.clearbit.com/paimon.apache.org",
+                        "url": "https://paimon.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742710928,
+                        "title": "Apache Portable - 创建并 维护提供可预测且一致的接口的软件库 到特定于平台的基础实现",
+                        "icon": "https://logo.clearbit.com/apr.apache.org",
+                        "url": "https://apr.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742742678,
+                        "title": "Apache Portals - 门户开发",
+                        "icon": "https://logo.clearbit.com/portals.apache.org",
+                        "url": "https://portals.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742777616,
+                        "title": "OLTP 和运营分析 - Apache Phoenix",
+                        "icon": "https://logo.clearbit.com/phoenix.apache.org",
+                        "url": "https://phoenix.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742826400,
+                        "title": "Apache Pinot™ - 实时分布式 OLAP 数据存储",
+                        "icon": "https://logo.clearbit.com/pinot.apache.org",
+                        "url": "https://pinot.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742868660,
+                        "title": "Apache Pivot 构建可安装互联网的开源平台",
+                        "icon": "https://logo.clearbit.com/pivot.apache.org",
+                        "url": "https://pivot.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742934438,
+                        "title": "基于 AMQP 构建的消息收发 - Apache Qpid™",
+                        "icon": "https://logo.clearbit.com/qpid.apache.org",
+                        "url": "https://qpid.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733742968535,
+                        "title": "Apache Ranger – Hadoop 生态系统中提供全面的安全性",
+                        "icon": "https://logo.clearbit.com/ranger.apache.org",
+                        "url": "https://ranger.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743033787,
+                        "title": "Ratis - Raft 一致性算法Java实现",
+                        "icon": "https://logo.clearbit.com/ratis.apache.org",
+                        "url": "https://ratis.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743103355,
+                        "title": "消息、事件、流式处理 RocketMQ",
+                        "icon": "https://logo.clearbit.com/rocketmq.apache.org",
+                        "url": "https://rocketmq.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743121882,
+                        "title": "Apache Roller - 多用户和组博客服务器",
+                        "icon": "https://logo.clearbit.com/roller.apache.org",
+                        "url": "https://roller.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743141658,
+                        "title": "Apache Royale - 开源前端应用程序技术",
                         "icon": "https://logo.clearbit.com/royale.apache.org",
                         "url": "https://royale.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743165107,
+                        "title": "Rya - 支持 SPARQL 查询的基于云的 RDF 三元组存储",
+                        "icon": "https://logo.clearbit.com/rya.apache.org",
+                        "url": "https://rya.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1720360883267,
+                        "title": "Apache SIS - 开发地理空间应用程序的免费软件 Java 语言库",
+                        "icon": "https://logo.clearbit.com/sis.apache.org",
+                        "url": "https://sis.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743295198,
+                        "title": "Apache SINGA · 分布式深度学习库",
+                        "icon": "https://logo.clearbit.com/singa.apache.org",
+                        "url": "https://singa.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743317409,
+                        "title": "Apache Santuario - xml标准实现",
+                        "icon": "https://logo.clearbit.com/santuario.apache.org",
+                        "url": "https://santuario.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743348130,
+                        "title": "Samza - 分布式流处理框架",
+                        "icon": "https://logo.clearbit.com/samza.apache.org",
+                        "url": "https://samza.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743365812,
+                        "title": "Apache SDAP - 科学数据分析平台",
+                        "icon": "https://logo.clearbit.com/sdap.apache.org",
+                        "url": "https://sdap.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743473677,
+                        "title": "Apache Serf - 基于 C 语言的 HTTP 客户端库",
+                        "icon": "https://logo.clearbit.com/serf.apache.org",
+                        "url": "https://serf.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743522786,
+                        "title": "Apache Sedona - 大规模空间数据的集群计算系统",
+                        "icon": "https://logo.clearbit.com/sedona.apache.org",
+                        "url": "https://sedona.apache.org/latest/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743581843,
+                        "title": "Apache Storm - 免费的开源分布式实时计算系统",
+                        "icon": "https://logo.clearbit.com/storm.apache.org",
+                        "url": "https://storm.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743594100,
+                        "title": "Apache StreamPipes - 工业物联网工具箱",
+                        "icon": "https://logo.clearbit.com/streampipes.apache.org",
+                        "url": "https://streampipes.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743633395,
+                        "title": "Apache ShenYu - Java 原生API网关,用于服务代理、协议转换和API治理",
+                        "icon": "https://logo.clearbit.com/shenyu.apache.org",
+                        "url": "https://shenyu.apache.org/zh/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743648122,
+                        "title": "Apache Shiro Java 安全框架",
+                        "icon": "https://logo.clearbit.com/shiro.apache.org",
+                        "url": "https://shiro.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743663458,
+                        "title": "Apache Sling 基于可扩展内容树的 RESTful Web 应用程序框架",
+                        "icon": "https://logo.clearbit.com/sling.apache.org",
+                        "url": "https://sling.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743678468,
+                        "title": "Apache SpamAssassin 开源反垃圾邮件平台",
+                        "icon": "https://logo.clearbit.com/spamassassin.apache.org",
+                        "url": "https://spamassassin.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743699204,
+                        "title": "Apache Spark™ - 用于大规模数据分析的统一引擎",
+                        "icon": "https://logo.clearbit.com/spark.apache.org",
+                        "url": "https://spark.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743708070,
+                        "title": "Apache ShardingSphere - 分布式SQL事务和查询引擎",
+                        "icon": "https://logo.clearbit.com/shardingsphere.apache.org",
+                        "url": "https://shardingsphere.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743717816,
+                        "title": "Apache Subversion",
+                        "icon": "https://logo.clearbit.com/subversion.apache.org",
+                        "url": "https://subversion.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1672730490394,
+                        "title": "Apache SkyWalking - 适用于分布式系统的应用程序性能监控工具",
+                        "icon": "https://logo.clearbit.com/skywalking.apache.org",
+                        "url": "https://skywalking.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743764000,
+                        "title": "Apache Struts - 开源 MVC 框架",
+                        "icon": "https://logo.clearbit.com/struts.apache.org",
+                        "url": "https://struts.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743789842,
+                        "title": "开源的现代数据探索和可视化平台 | Superset",
+                        "icon": "https://logo.clearbit.com/superset.apache.org",
+                        "url": "https://superset.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743818926,
+                        "title": " Apache Synapse - 轻量级 ESB",
+                        "icon": "https://logo.clearbit.com/synapse.apache.org",
+                        "url": "https://synapse.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743838992,
+                        "title": "Apache Syncope – 企业环境中的数字身份",
+                        "icon": "https://logo.clearbit.com/syncope.apache.org",
+                        "url": "https://syncope.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743850592,
+                        "title": "Apache SystemDS - 适用于端到端数据科学生命周期的开源 ML 系统",
+                        "icon": "https://logo.clearbit.com/systemds.apache.org",
+                        "url": "https://systemds.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743954832,
+                        "title": "Apache Tcl - Tcl 和 Apache HTTP Web 服务器集成",
+                        "icon": "https://logo.clearbit.com/tcl.apache.org",
+                        "url": "https://tcl.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733743972020,
+                        "title": "Apache Tapestry - 一个面向组件的框架，用于在 Java 中创建高度可扩展的 Web 应用程序",
+                        "icon": "https://logo.clearbit.com/tapestry.apache.org",
+                        "url": "https://tapestry.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744052121,
+                        "title": "Apache TinkerPop 适用于图数据库和图形分析的计算框架",
+                        "icon": "https://logo.clearbit.com/tinkerpop.apache.org",
+                        "url": "https://tinkerpop.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744102834,
+                        "title": "Apache TomEE",
+                        "icon": "https://logo.clearbit.com/tomee.apache.org",
+                        "url": "https://tomee.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744105244,
+                        "title": "Apache Tomcat® - Welcome!",
+                        "icon": "https://logo.clearbit.com/tomcat.apache.org",
+                        "url": "https://tomcat.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744125215,
+                        "title": "Apache Traffic 缓存代理服务器",
+                        "icon": "https://logo.clearbit.com/trafficserver.apache.org",
+                        "url": "https://trafficserver.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744141419,
+                        "title": "Apache Traffic Control Traffic缓存代理服务器客户端配置",
+                        "icon": "https://logo.clearbit.com/trafficcontrol.apache.org",
+                        "url": "https://trafficcontrol.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744161873,
+                        "title": "Apache TsFile - sFile 是一种专为时序数据设计的列式存储文件格式",
+                        "icon": "https://logo.clearbit.com/tsfile.apache.org",
+                        "url": "https://tsfile.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744178216,
+                        "title": "基于 servlet 的框架 – Apache Turbine",
+                        "icon": "https://logo.clearbit.com/turbine.apache.org",
+                        "url": "https://turbine.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744276044,
+                        "title": "Apache UIMA - 非结构化内容分析工具",
+                        "icon": "https://logo.clearbit.com/uima.apache.org",
+                        "url": "https://uima.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744314990,
+                        "title": "Apache Unomi™ 开源客户数据平台 |主页",
+                        "icon": "https://logo.clearbit.com/unomi.apache.org",
+                        "url": "https://unomi.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744324572,
+                        "title": "Apache VCL - 免费且开源的云计算平台",
+                        "icon": "https://logo.clearbit.com/vcl.apache.org",
+                        "url": "https://vcl.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744346512,
+                        "title": "Apache Web Services – 许多与 Web 服务相关的项目的主页",
+                        "icon": "https://logo.clearbit.com/ws.apache.org",
+                        "url": "https://ws.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744483836,
+                        "title": "Apache Xalan - 使用 XSLT 标准样式表转换 XML 文档",
+                        "icon": "https://logo.clearbit.com/xalan.apache.org",
+                        "url": "https://xalan.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744527962,
+                        "title": "Apache Xerces™  XML 解析器",
+                        "icon": "https://logo.clearbit.com/xerces.apache.org",
+                        "url": "https://xerces.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744555050,
+                        "title": "Apache YuniKorn 资源调度",
+                        "icon": "https://logo.clearbit.com/yunikorn.apache.org",
+                        "url": "https://yunikorn.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744581055,
+                        "title": "Zeppelin Web 的笔记本，支持使用 SQL、Scala、Python、R",
+                        "icon": "https://logo.clearbit.com/zeppelin.apache.org",
+                        "url": "https://zeppelin.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733744586158,
+                        "title": "Apache ZooKeeper",
+                        "icon": "https://logo.clearbit.com/zookeeper.apache.org",
+                        "url": "https://zookeeper.apache.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733748015383,
+                        "title": "Apache Gora™ - Java NoSQL orm",
+                        "icon": "https://logo.clearbit.com/gora.apache.org",
+                        "url": "https://gora.apache.org/about.html"
                       }
                     ]
                   },
@@ -3352,10 +4570,38 @@
                               },
                               {
                                 "type": "link",
-                                "addDate": 1728986476311,
-                                "title": "Product Hunt – The best new products in tech.",
-                                "icon": "https://logo.clearbit.com/www.producthunt.com",
-                                "url": "https://www.producthunt.com/?utm_campaign=email-notification&utm_medium=email&utm_source=onboarding_"
+                                "addDate": 1730788050848,
+                                "title": "NestJS - A progressive Node.js framework",
+                                "icon": "https://logo.clearbit.com/nestjs.com",
+                                "url": "https://nestjs.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1733273626387,
+                                "title": "Lit",
+                                "icon": "https://logo.clearbit.com/lit.dev",
+                                "url": "https://lit.dev/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1733273648443,
+                                "title": "Framework reimagined for the edge! 📚 Qwik Documentation",
+                                "icon": "https://logo.clearbit.com/qwik.dev",
+                                "url": "https://qwik.dev/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1733273653884,
+                                "title": "Marko",
+                                "icon": "https://logo.clearbit.com/markojs.com",
+                                "url": "https://markojs.com/"
+                              },
+                              {
+                                "type": "link",
+                                "addDate": 1733273656317,
+                                "title": "Stencil",
+                                "icon": "https://logo.clearbit.com/stenciljs.com",
+                                "url": "https://stenciljs.com/"
                               }
                             ]
                           },
@@ -3480,15 +4726,7 @@
                                 "type": "folder",
                                 "addDate": 1730788065101,
                                 "title": "后端",
-                                "children": [
-                                  {
-                                    "type": "link",
-                                    "addDate": 1730788050848,
-                                    "title": "NestJS - A progressive Node.js framework",
-                                    "icon": "https://logo.clearbit.com/nestjs.com",
-                                    "url": "https://nestjs.com/"
-                                  }
-                                ]
+                                "children": []
                               }
                             ]
                           },
@@ -3806,6 +5044,20 @@
                             "title": "TanStack | High Quality Open-Source Software for Web Developers",
                             "icon": "https://logo.clearbit.com/tanstack.com",
                             "url": "https://tanstack.com/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732155980031,
+                            "title": "TanStack 表格 --- TanStack Table",
+                            "icon": "https://logo.clearbit.com/tanstack.com",
+                            "url": "https://tanstack.com/table/latest"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732157567372,
+                            "title": "jspreadsheets - Best JavaScript Data Grids and Spreadsheets for React, Angular, Vue and Svelte.",
+                            "icon": "https://logo.clearbit.com/jspreadsheets.com",
+                            "url": "https://jspreadsheets.com/"
                           }
                         ]
                       },
@@ -4114,6 +5366,20 @@
                             "title": "Day.js · 中文文档 - 2kB 大小的 JavaScript 时间日期库",
                             "icon": "https://logo.clearbit.com/day.js.org",
                             "url": "https://day.js.org/zh-CN/"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732154048952,
+                            "title": "react-data-grid/README.md at main · adazzle/react-data-grid",
+                            "icon": "https://logo.clearbit.com/github.com",
+                            "url": "https://github.com/adazzle/react-data-grid/blob/main/README.md"
+                          },
+                          {
+                            "type": "link",
+                            "addDate": 1732154102995,
+                            "title": "X-Spreadsheet中文文档",
+                            "icon": "https://logo.clearbit.com/hondrytravis.com",
+                            "url": "https://hondrytravis.com/x-spreadsheet-doc/"
                           }
                         ]
                       },
@@ -4662,6 +5928,27 @@
                         "title": "httpbin.org",
                         "icon": "https://logo.clearbit.com/httpbin.org",
                         "url": "https://httpbin.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733393810629,
+                        "title": "WebKit",
+                        "icon": "https://logo.clearbit.com/webkit.org",
+                        "url": "https://webkit.org/"
+                      },
+                      {
+                        "type": "folder",
+                        "addDate": 1733482825583,
+                        "title": "性能",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1733482808085,
+                            "title": "Lighthouse：优化网站速度  |  Chrome DevTools  |  Chrome for Developers",
+                            "icon": "https://logo.clearbit.com/developer.chrome.google.cn",
+                            "url": "https://developer.chrome.google.cn/docs/devtools/lighthouse?hl=zh-cn"
+                          }
+                        ]
                       }
                     ]
                   },
@@ -4951,6 +6238,20 @@
                         ]
                       },
                       {
+                        "type": "folder",
+                        "addDate": 1711794984400,
+                        "title": "mojo",
+                        "children": [
+                          {
+                            "type": "link",
+                            "addDate": 1711794973414,
+                            "title": "Mojo开发者社区",
+                            "icon": "https://logo.clearbit.com/dev.mojocn.org",
+                            "url": "https://dev.mojocn.org/"
+                          }
+                        ]
+                      },
+                      {
                         "type": "link",
                         "addDate": 1636936063000,
                         "title": "Python 简介 | 菜鸟教程",
@@ -5005,20 +6306,6 @@
                         "title": "python Pip安装卸载，命令，常用选项&常见问题 | 飞爱碧玉的个人博客",
                         "icon": "https://logo.clearbit.com/xiaxi626.github.io",
                         "url": "https://xiaxi626.github.io/post/python-pip-an-zhuang-xie-zai-ming-ling-chang-yong-xuan-xiang-andchang-jian-wen-ti/"
-                      },
-                      {
-                        "type": "folder",
-                        "addDate": 1711794984400,
-                        "title": "mojo",
-                        "children": [
-                          {
-                            "type": "link",
-                            "addDate": 1711794973414,
-                            "title": "Mojo开发者社区",
-                            "icon": "https://logo.clearbit.com/dev.mojocn.org",
-                            "url": "https://dev.mojocn.org/"
-                          }
-                        ]
                       },
                       {
                         "type": "link",
@@ -5145,6 +6432,20 @@
                         "title": "Godot Engine - Free and open source 2D and 3D game engine",
                         "icon": "https://logo.clearbit.com/godotengine.org",
                         "url": "https://godotengine.org/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733039067364,
+                        "title": "OSGeo/PROJ： PROJ - 制图投影和坐标变换库",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/OSGeo/PROJ"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1733039090315,
+                        "title": "OSGeo/gdal：GDAL 是一个开源的 MIT 许可的翻译库，用于栅格和矢量地理空间数据格式。",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/OSGeo/gdal"
                       }
                     ]
                   },
@@ -5210,6 +6511,13 @@
                         ]
                       }
                     ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1732008129419,
+                    "title": "TIOBE Index - TIOBE",
+                    "icon": "https://logo.clearbit.com/www.tiobe.com",
+                    "url": "https://www.tiobe.com/tiobe-index/"
                   }
                 ]
               },
@@ -5733,6 +7041,34 @@
                         "title": "The High-Performance Vector Database Built for Scale | Milvus",
                         "icon": "https://logo.clearbit.com/milvus.io",
                         "url": "https://milvus.io/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732090160937,
+                        "title": "The vector database to build knowledgeable AI | Pinecone",
+                        "icon": "https://logo.clearbit.com/www.pinecone.io",
+                        "url": "https://www.pinecone.io/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732090169209,
+                        "title": "Chroma",
+                        "icon": "https://logo.clearbit.com/www.trychroma.com",
+                        "url": "https://www.trychroma.com/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732090183034,
+                        "title": "qdrant/qdrant: Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/",
+                        "icon": "https://logo.clearbit.com/github.com",
+                        "url": "https://github.com/qdrant/qdrant"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1732090206428,
+                        "title": "The AI-native database developers love | Weaviate",
+                        "icon": "https://logo.clearbit.com/weaviate.io",
+                        "url": "https://weaviate.io/"
                       }
                     ]
                   }
@@ -6311,7 +7647,7 @@
                       {
                         "type": "link",
                         "addDate": 1720359652914,
-                        "title": "Apache 脉冲星 |Apache Pulsar",
+                        "title": "为云构建的开源分布式消息传递和流式处理平台 - Apache Pulsar",
                         "icon": "https://logo.clearbit.com/pulsar.apache.org",
                         "url": "https://pulsar.apache.org/"
                       }
@@ -6426,20 +7762,6 @@
                         "title": "Apache Kudu - Introducing Apache Kudu",
                         "icon": "https://logo.clearbit.com/kudu.apache.org",
                         "url": "https://kudu.apache.org/docs/#introducing-apache-kudu"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1720359615602,
-                        "title": "木条镶花之地板",
-                        "icon": "https://logo.clearbit.com/parquet.apache.org",
-                        "url": "https://parquet.apache.org/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1720359727708,
-                        "title": "Apache 风暴",
-                        "icon": "https://logo.clearbit.com/storm.apache.org",
-                        "url": "https://storm.apache.org/"
                       }
                     ]
                   },
@@ -6464,7 +7786,7 @@
                       {
                         "type": "link",
                         "addDate": 1661602379783,
-                        "title": "Apache Tez – Welcome to Apache TEZ®",
+                        "title": "Apache Tez – 应用程序框架 它允许对任务进行复杂的有向无环图进行处理 数据 hadoop",
                         "icon": "https://logo.clearbit.com/tez.apache.org",
                         "url": "https://tez.apache.org/"
                       },
@@ -6478,7 +7800,7 @@
                       {
                         "type": "link",
                         "addDate": 1698286866081,
-                        "title": "Welcome to Apache Pig!",
+                        "title": "Pig 是一个用于分析大型数据集的平台",
                         "icon": "https://logo.clearbit.com/pig.apache.org",
                         "url": "https://pig.apache.org/"
                       },
@@ -6526,24 +7848,10 @@
                       },
                       {
                         "type": "link",
-                        "addDate": 1720359530931,
-                        "title": "阿帕奇皮诺™",
-                        "icon": "https://logo.clearbit.com/pinot.apache.org",
-                        "url": "https://pinot.apache.org/"
-                      },
-                      {
-                        "type": "link",
                         "addDate": 1720359853464,
-                        "title": "Apache TVM",
+                        "title": "Apache TVM - 适用于 CPU、GPU 和加速器的端到端机器学习编译器框架",
                         "icon": "https://logo.clearbit.com/tvm.apache.org",
                         "url": "https://tvm.apache.org/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1720360627205,
-                        "title": "Apache Mahout 线性代数",
-                        "icon": "https://logo.clearbit.com/mahout.apache.org",
-                        "url": "https://mahout.apache.org/"
                       },
                       {
                         "type": "link",
@@ -6562,7 +7870,7 @@
                       {
                         "type": "link",
                         "addDate": 1661603747291,
-                        "title": "Apache Hive",
+                        "title": "Apache Hive 分布式、容错数据仓库系统",
                         "icon": "https://logo.clearbit.com/hive.apache.org",
                         "url": "https://hive.apache.org/"
                       },
@@ -6572,13 +7880,6 @@
                         "title": "Apache Kylin | 大数据分析型数据仓库",
                         "icon": "https://logo.clearbit.com/kylin.apache.org",
                         "url": "https://kylin.apache.org/cn/"
-                      },
-                      {
-                        "type": "link",
-                        "addDate": 1661603891239,
-                        "title": "Impala",
-                        "icon": "https://logo.clearbit.com/impala.apache.org",
-                        "url": "https://impala.apache.org/"
                       },
                       {
                         "type": "link",
@@ -6625,7 +7926,7 @@
                       {
                         "type": "link",
                         "addDate": 1678978042765,
-                        "title": "Apache SeaTunnel | Apache SeaTunnel",
+                        "title": "Apache SeaTunnel | 分布式、海量数据集成工具",
                         "icon": "https://logo.clearbit.com/seatunnel.apache.org",
                         "url": "https://seatunnel.apache.org/"
                       }
@@ -6653,7 +7954,7 @@
                       {
                         "type": "link",
                         "addDate": 1661605151992,
-                        "title": "Oozie - Apache Oozie Workflow Scheduler for Hadoop",
+                        "title": "Oozie -工作流调度程序系统",
                         "icon": "https://logo.clearbit.com/oozie.apache.org",
                         "url": "https://oozie.apache.org/"
                       },
@@ -7113,6 +8414,27 @@
                         "url": "https://shumeipai.nxez.com/"
                       }
                     ]
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1732178352972,
+                    "title": "工业工具",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1732178332350,
+                        "title": "FreeCAD：你自己的三维参数化建模软件",
+                        "icon": "https://logo.clearbit.com/www.freecad.org",
+                        "url": "https://www.freecad.org/?lang=zh_CN"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1733365730216,
+                    "title": "FOSSHUB | Categories.",
+                    "icon": "https://logo.clearbit.com/www.fosshub.com",
+                    "url": "https://www.fosshub.com/categories.html"
                   }
                 ]
               },
@@ -7140,13 +8462,6 @@
                     "addDate": 1672730522491,
                     "title": "监控",
                     "children": [
-                      {
-                        "type": "link",
-                        "addDate": 1672730490394,
-                        "title": "Apache SkyWalking",
-                        "icon": "https://logo.clearbit.com/skywalking.apache.org",
-                        "url": "https://skywalking.apache.org/"
-                      },
                       {
                         "type": "link",
                         "addDate": 1672761616807,
@@ -8380,13 +9695,6 @@
                           {
                             "type": "link",
                             "addDate": 1636936063000,
-                            "title": "Documentation - Thymeleaf",
-                            "icon": "https://logo.clearbit.com/www.thymeleaf.org",
-                            "url": "https://www.thymeleaf.org/documentation.html"
-                          },
-                          {
-                            "type": "link",
-                            "addDate": 1636936063000,
                             "title": "Rust 程式設計語言 - Rust 程式設計語言",
                             "icon": "https://logo.clearbit.com/rust-lang.tw",
                             "url": "https://rust-lang.tw/book-tw/"
@@ -8942,6 +10250,20 @@
                 "title": "Flathub - Apps for Linux",
                 "icon": "https://logo.clearbit.com/flathub.org",
                 "url": "https://flathub.org/zh-Hans"
+              },
+              {
+                "type": "link",
+                "addDate": 1732543490761,
+                "title": "Bulk Crap Uninstaller - 卸载",
+                "icon": "https://logo.clearbit.com/www.bcuninstaller.com",
+                "url": "https://www.bcuninstaller.com/"
+              },
+              {
+                "type": "link",
+                "addDate": 1732884608608,
+                "title": "electerm",
+                "icon": "https://logo.clearbit.com/electerm.github.io",
+                "url": "https://electerm.github.io/electerm/index-zh_cn.html"
               }
             ]
           },
@@ -8950,6 +10272,83 @@
             "addDate": 1658852984272,
             "title": "常用工具",
             "children": [
+              {
+                "type": "folder",
+                "addDate": 1693232313195,
+                "title": "外快",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1693232313195,
+                    "title": "开源众包平台",
+                    "icon": "https://logo.clearbit.com/zb.oschina.net",
+                    "url": "https://zb.oschina.net/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693232313195,
+                    "title": "亿图推广平台",
+                    "icon": "https://logo.clearbit.com/www.edrawsoft.cn",
+                    "url": "http://www.edrawsoft.cn/retail/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693232313196,
+                    "title": "uTest - The Professional Network for Testers",
+                    "icon": "https://logo.clearbit.com/www.utest.com",
+                    "url": "https://www.utest.com/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693232313196,
+                    "title": "Gitee Reward - Gitee.com",
+                    "icon": "https://logo.clearbit.com/gitee.com",
+                    "url": "https://gitee.com/gitee_reward?utm_source=gitee-explore&utm_medium=banner"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1693232313196,
+                    "title": "介绍 | 哔哩哔哩直播开放平台开发文档",
+                    "icon": "https://logo.clearbit.com/open-live.bilibili.com",
+                    "url": "https://open-live.bilibili.com/document/"
+                  },
+                  {
+                    "type": "folder",
+                    "addDate": 1693232313196,
+                    "title": "通用API工具",
+                    "children": [
+                      {
+                        "type": "link",
+                        "addDate": 1693232313196,
+                        "title": "ALAPI",
+                        "icon": "https://logo.clearbit.com/www.alapi.cn",
+                        "url": "https://www.alapi.cn/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1693232313196,
+                        "title": "IP地址查询 - 在线工具",
+                        "icon": "https://logo.clearbit.com/tool.lu",
+                        "url": "https://tool.lu/ip/"
+                      },
+                      {
+                        "type": "link",
+                        "addDate": 1693232313196,
+                        "title": "代码生成 - 天启开放平台",
+                        "icon": "https://logo.clearbit.com/tianqi.aminer.cn",
+                        "url": "https://tianqi.aminer.cn/open/document/code_ref/codegeex_generation"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1707010424977,
+                    "title": "HuntsBot|狩猎机器人,一站式外包任务、远程工作、产品创意分享与订阅平台",
+                    "icon": "https://logo.clearbit.com/www.huntsbot.com",
+                    "url": "https://www.huntsbot.com/"
+                  }
+                ]
+              },
               {
                 "type": "folder",
                 "addDate": 1694307230440,
@@ -9914,11 +11313,53 @@
         ]
       },
       {
-        "type": "link",
-        "addDate": 1729587546462,
-        "title": "收藏夹工程",
-        "icon": "https://logo.clearbit.com/gengpu.github.io",
-        "url": "https://gengpu.github.io/pintree/"
+        "type": "folder",
+        "addDate": 1719555615065,
+        "title": "AI工具",
+        "children": [
+          {
+            "type": "link",
+            "addDate": 1717425076508,
+            "title": "V-Express：南京大学和腾讯联合开源数字人，音频驱动图片生成讲话视频，又一数字人免费平替",
+            "icon": "https://logo.clearbit.com/mp.weixin.qq.com",
+            "url": "https://mp.weixin.qq.com/s/T1zr80RxvY7AZihkS1prsw"
+          },
+          {
+            "type": "link",
+            "addDate": 1698219825211,
+            "title": "文心一言",
+            "icon": "https://logo.clearbit.com/yiyan.baidu.com",
+            "url": "https://yiyan.baidu.com/"
+          },
+          {
+            "type": "link",
+            "addDate": 1718329421936,
+            "title": "Kimi.ai - 帮你看更大的世界",
+            "icon": "https://logo.clearbit.com/kimi.moonshot.cn",
+            "url": "https://kimi.moonshot.cn/"
+          },
+          {
+            "type": "link",
+            "addDate": 1686145717004,
+            "title": "用自己训练的AI玩王者荣耀是什么体验？ - 知乎",
+            "icon": "https://logo.clearbit.com/zhuanlan.zhihu.com",
+            "url": "https://zhuanlan.zhihu.com/p/342791663"
+          },
+          {
+            "type": "link",
+            "addDate": 1714395833692,
+            "title": "大模型 AI 应用全栈开发知识体系 v1.4.1",
+            "icon": "https://logo.clearbit.com/agiclass.feishu.cn",
+            "url": "https://agiclass.feishu.cn/docx/Z3Aed6qXboiF8gxGuaccNHxanOc?from=from_qr_code"
+          },
+          {
+            "type": "link",
+            "addDate": 1719310015259,
+            "title": "通义",
+            "icon": "https://logo.clearbit.com/tongyi.aliyun.com",
+            "url": "https://tongyi.aliyun.com/qianwen"
+          }
+        ]
       }
     ]
   }
